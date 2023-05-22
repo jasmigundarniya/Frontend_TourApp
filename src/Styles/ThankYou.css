@@ -1,0 +1,175 @@
+.thank_you {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 40px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swal2-confirm {
+  background-color: #16a085 !important;
+}
+
+.mainform {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding: 20px;
+  width: 40% !important;
+  background: #16a08408;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 8px 2px rgba(178, 178, 178, 0.406);
+}
+
+.mainform .texttitle {
+  margin-top: 10px;
+  /* margin-bottom: 33px; */
+}
+
+.formtitle {
+  font-size: 1.1rem;
+}
+
+.formdata {
+  color: var(--text-color);
+  font-size: 1.1rem;
+  font-family: "Lato";
+  text-align: right;
+}
+
+.f1 {
+  font-size: 1.3rem;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.f3 {
+  font-size: 1.3rem;
+  color: var(--text-color);
+  float: right;
+  font-weight: 500;
+}
+
+.f2 {
+  font-size: 18px;
+  color: var(--secondary-color);
+  font-weight: 600;
+}
+
+.f4 {
+  float: right;
+  font-size: 1.1 rem;
+  color: var(--secondary-color);
+  font-weight: 600;
+}
+
+.modalicon span i {
+  font-size: 3.5rem;
+  color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalbody .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalbody .footer button {
+  margin-top: -50px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  background-color: var(--secondary-color);
+  border: 1px solid #16a085;
+}
+
+.modalbody .footer .textl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 30px;
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.btn-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.btns Button {
+  /* display: flex; */
+  margin-inline: 10px;
+  width: 10% !important;
+  background-color: var(--secondary-color);
+}
+
+.btns Button:hover {
+  background-color: var(--secondary-color);
+}
+
+.textl {
+  text-decoration: none;
+  color: #fff;
+}
+
+.textl:hover {
+  color: #fff;
+}
+
+.line {
+  text-underline-position: auto;
+  width: 132%;
+}
+
+.cicons1 {
+  color: #16a085;
+  font-size: 22px;
+  margin-right: 5px;
+}
+
+.cicons2 {
+  color: #16a085;
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+.ctextc {
+  color: var(--text-color);
+}
+
+.ctextc .ri-map-pin-2-line {
+  font-size: 12px;
+}
+
+.cdetails {
+  color: var(--text-color);
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.cgap1 {
+  margin-right: 20px;
+}
+
+.cgap2 {
+  margin-left: 20px;
+}
+
+.b {
+  font-size: 1rem;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.a {
+  font-size: 1rem;
+  color: var(--secondary-color);
+  font-weight: 600;
+}

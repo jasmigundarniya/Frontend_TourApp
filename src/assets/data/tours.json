@@ -1,0 +1,3720 @@
+[
+  {
+    "title": "Westminster Bridge",
+    "city": "London",
+    "address": "200 Westminster Bridge Road, London, SE1 7UT, United Kingdom.",
+    "distance": 300,
+    "price": 1100,
+    "duration": "7N/8D",
+    "hotel": "Park Plaza London Waterloo",
+    "flight": "IndiGo",
+    "maxGroupSize": 10,
+    "desc": "The oldest structure in London, Westminster Bridge, is located in the heart of the bustling city of London. The bridge overlooks the tranquil waters of the River Thames, with the County Hall on one side and the London Eye on the other. The main attraction of its beauty is its seven graceful arches. One can take a lovely morning stroll when the city is quiet and the view is unhindered.",
+    "place": "Houses of Parliment, St. James's Park, Tate Modern, British Museum, The Pall Mall, Museum of Freemasonry.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img01.jpg",
+    "photo1": "/tour-images/hotel11.jpg",
+    "photo2": "/tour-images/hotel12.jpg",
+    "photo3": "/tour-images/hotel13.jpg",
+    "photo4": "/tour-images/tour-img011.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in london",
+
+        "message1": "Welcome to Westminster Bridge.",
+        "message2": "Upon arrival in london, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in london.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": " London Eye, Tower of London",
+
+        "message1": "The London Eye takes you high above the River Thames from where you can witness the charming views of London.",
+        "message2": "Be seated in an air-conditioned glass pod and enjoy the view of the glimmering lights of the whole city.",
+        "message3": "With the London Eye tour ticket, you can also avail yourself of the chance to go on an additional 40-minute cruise along the River Thames.",
+        "img": "/tour-images/a11.jpg"
+      },
+
+      {
+        "day": "Day 3",
+        "atitle": "Buckingham Palace, London",
+
+        "message1": "Visit Buckingham Palace in London and admire the famous pieces of artwork in Queen's gallery which is made by some greatest artists of all time.",
+        "message2": "On this guided walking tour of Westminster and the Changing of the Guard, see British tradition in action.",
+        "message3": "Book Buckingham Palace Tickets and spend some good time with your loved ones.",
+        "img": "/tour-images/a12.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Dulwich Park",
+
+        "message1": "The park was created from former farmland and meadows, which lend it its natural beauty.",
+        "message2": "The area is ideal for walks as it is a pedestrian-only area with the exception of hired bicycles and cars with disabled badges.",
+        "message3": "Dulwich Park is also home to a minor running club and a bowling club which operates every summer from April to September.",
+        "img": "/tour-images/a13.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "The Victoria And Albert Museum",
+
+        "message1": "The Victoria and Albert Museum is amongst some of the most popular museums in London and is located in the Royal Borough of Kensington and Chelsea.",
+        "message2": "Founded in the year 1852, it is the world's largest applied and decorative arts and design museum with a permanent collection.",
+        "message3": "Covering an area of 12.5 acres, the museum has a total of 145 galleries, containing arts spanning 5,000 years of civilization.",
+        "img": "/tour-images/a14.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Sea Life Centre",
+
+        "message1": "The Sea Life London Aquarium is located on the ground floor of County Hall on the South Bank of the River Thames in central London, near the London Eye.",
+        "message2": "The fish were designed to be autonomous, swimming around and avoiding obstacles like real fish.",
+        "message3": "The exquisite underwater realm of SEA Life Centre London Aquarium is the home to 40 different species of marine creatures from across ld.",
+        "img": "/tour-images/a15.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Kempton Park Racecourse",
+
+        "message1": "The Kempton Park Racecourse is a horse racing track situated in the posh county of Surrey, situated 16 miles to the south-west of Charing Cross.",
+        "message2": "The racecourse is one of the lesser-known tourist attractions in London but is popular amongst horse racing enthusiasts.Apart from the races.",
+        "message3": "The place also holds a bi-monthly antiques market, seasonal wedding fairs and other weekly markets.",
+        "img": "/tour-images/a16.jpg"
+      },
+      {
+        "day": "Day 8",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and proceed to the airport for your onward journey back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bali, Indonesia",
+    "city": "Bali",
+    "address": "Kawasan Wisata Nusa Dua BTDC Bali, Indonesia.",
+    "distance": 400,
+    "price": 1500,
+    "duration": "5N/6D",
+    "hotel": "Dafam Semarang",
+    "flight": "Air India",
+    "maxGroupSize": 10,
+    "desc": "Bali is one of the most popular tourist destinations in Indonesia. Whether you want to explore the beaches, are a wildlife enthusiast, or are a lover of art, Bali is ready to give you the ultimate treat. We spent a few weeks exploring the best that Bali has to offer. While it’s not the exotic destination it once was, it still has a lot to offer visitors, and there are plenty of things to know before visiting Bali.",
+    "place": "Uluwatu Temple, Bali Zoo, Campuhan Ridge, Mount Batur, Tirta Empul Temple, Nusa Dua Beach, Jatiluwih Green Land, Tirta Gangga.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img02.jpg",
+    "photo1": "/tour-images/hotel21.jpg",
+    "photo2": "/tour-images/hotel22.jpg",
+    "photo3": "/tour-images/hotel23.jpg",
+    "photo4": "/tour-images/tour-img021.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Indonesia",
+
+        "message1": "",
+        "message2": "Upon arrival in Indonesia, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Indonesia.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Uluwatu Temple",
+
+        "message1": "The temple is regarded as one of the sad kahyangan and is dedicated to Sang Hyang Widhi Wasa in his manifestation as Rudra.",
+        "message2": "The temple is built at the edge of a 70-meter-high cliff or rock projecting into the sea.",
+        "message3": "The temple is inhabited by monkeys, who are notorious for snatching visitors' belongings, such as flip-flops, cameras, and sunglasses.",
+        "img": "/tour-images/a21.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Sacred Monkey Forest Sanctuary",
+
+        "message1": "The Monkey Forest lies within the village of Padangtegal, which owns it.",
+        "message2": "Sacred Monkey Forest Ubud is a famous tourist attraction in Ubud. In every month around 10,000–15,000 visitors come to Monkey Forest Ubud.",
+        "message3": "The village's residents view the Monkey Forest as an important spiritual, economic, educational, and conservation center for the.",
+        "img": "/tour-images/a22.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Gili Islands",
+
+        "message1": "The Gilis offer a range of action and adventure – they're considered the best alternate island escape that visitors to Bali can add to their vacation itineraries.",
+        "message2": "Underneath the waves, there are amazing dive spots around tropical coral gardens teeming with biodiversity.",
+        "message3": "Indulge in watersports such as scuba diving, snorkling and swimming.",
+        "img": "/tour-images/a23.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Tangkuban Perahu",
+
+        "message1": "Tangkuban Perahu is a stratovolcano 30 km north of the city of Bandung, the provincial capital of West Java, Indonesia.",
+        "message2": "It is a popular tourist attraction where tourists hike or ride to the edge of the crater to view the hot water springs and boiling mud up close.",
+        "message3": "Together with Mount Burangrang and Bukit Tunggul, it is a remnant of the ancient Mount Sunda after the plinian eruption caused the  to collapse.",
+        "img": "/tour-images/a24.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "The last during Bali Round Trip 6 Days and 5 Nights Tour, enjoy your Breakfast at the hotel.",
+        "message2": "Then we go to Krishna Oleh – Oleh Bali to search souvenirs and then until the time for your departure our representative will come to drop you at the airport for departure.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "286 Snowy Mountains Highway, Cooma, New South Wales 2630 Australia.",
+    "distance": 500,
+    "price": 3020,
+    "duration": "5N/6D",
+    "hotel": "The Canal Garden Resort",
+    "flight": "Alliance Air",
+    "maxGroupSize": 8,
+    "desc": "“The Snowies” are a vast region containing some of the highest peaks in Australia and serve as a veritable adventure playground all-year-round as during the winter months they are home to some of the country's best ski and snow activities, while in the summer they offer numerous opportunities for off-road adventures from 4WDing, mountain biking, fishing and much more. It's an area that changes its character drastically between the seasons, yet has no less to see and do from one to the next and remains as untouched and pure a part of Australia as still remains.",
+    "place": "Pattaya Floating Market, Chao Phraya River, Safari World Zoo, Sanctuary of Truth, Simon Cabaret Show.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "photo1": "/tour-images/hotel11.jpg",
+    "photo2": "/tour-images/hotel12.jpg",
+    "photo3": "/tour-images/hotel13.jpg",
+    "photo4": "/tour-images/tour-img131.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Thailand",
+
+        "message1": "Welcome to Snowy Mountains.",
+        "message2": "Upon arrival in Thailand, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Thailand.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Bangkok City Tour",
+
+        "message1": "Atfer breakfast, take a city tour around Bangkok.",
+        "message2": "Visit China Town, Golden Buddha and the Reclining Buddha among other places.",
+        "message3": "Spend the rest of the day at leisure.",
+        "img": "/tour-images/a31.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Singapore Night Safari",
+
+        "message1": "Check-in to hotel and relax.",
+        "message2": "In the evening, go to Night Safari.",
+        "message3": "Overnight stay in Singapore.",
+        "img": "/tour-images/a32.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Coral Island Tour",
+
+        "message1": "Transfer to the speed boat terminal to board boat to Coral Island.",
+        "message2": "Return in time for lunch.",
+        "message3": "Spend the evening at leisure.",
+        "img": "/tour-images/a33.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Universal Studio",
+
+        "message1": "After breakfast proceed to Universal Studio.",
+        "message2": "Spend the day at the Theme Park.",
+        "message3": "Return to hotel for overnight stay.",
+        "img": "/tour-images/a34.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel.",
+        "message2": "Transfer to the airport to board the flight for your onward journey back home.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Beautiful Sunrise, Thailand",
+    "city": "Phuket",
+    "address": "55/104 moo.5 T.Makhamtia Mueang Suratthani, 84000 Suratthani, Thailand.",
+    "distance": 500,
+    "price": 2150,
+    "duration": "3N/4D",
+    "hotel": "Cotswold Lodge",
+    "flight": "Vistara",
+    "maxGroupSize": 7,
+    "desc": "“Sunrise is a time when there is calm and quiet, the atmosphere is pure and fresh and there is no dust, no smoke, and no noise. We can inhale a lot of pure oxygen. A man who goes out for a long walk at sunrise never falls ill. The rising sun gives us light and warmth. It gives new life to withering plants and a new lease of life .to all living creatures. That is why even the gods worship the rising sun.",
+    "place": "James Bond Island, Phi Phi Islands, Krabi, Khao Lak, Chiang Mai.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img04.jpg",
+    "photo1": "/tour-images/hotel41.jpg",
+    "photo2": "/tour-images/hotel42.jpg",
+    "photo3": "/tour-images/hotel43.jpg",
+    "photo4": "/tour-images/tour-img041.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival and Phuket City Tour",
+
+        "message1": "On arrival, meet your representative and transfer from the airport to the hotel.",
+        "message2": "Later, partake in a 5 hour Phuket City Tour including Rang Hill, Chalong Temple, Promtep Cape for sunset veiw and cashew nut factory.",
+        "message3": "In the evening, enjoy a Phuket Fantasea Show with international buffet dinner at Kinnaree Restaurant.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Phi Phi Island",
+
+        "message1": "After breakfast, proceed to Phi Phi Island by Express Boat.",
+        "message2": "Activities at Phi Phi Ley Island inlcude sightseeing around Maya Bay, Loh Samah Bay, Pileh Bay & Viking Cave, swimming and snorkling at Coral Bay.",
+        "message3": "Lunch inlcuded.",
+        "img": "/tour-images/a41.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Phang Nga Bay with Canoe Program",
+
+        "message1": "Travel to Phang Nga Bay for the Phuket Sea Canoe trip.",
+        "message2": "Buffet lunch on board and visit Khao Tapoo and Lawa or Koh Naka for swimming and relaxing at Lawa beach.",
+        "message3": "Return to hotel.",
+        "img": "/tour-images/a42.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Departure",
+
+        "message1": "Check-out after breakfast at hotel.",
+        "message2": "Transfer to the airport for onward journey.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Ooty",
+    "city": "Tamil Nadu",
+    "address": "Nilgiris, Ooty.",
+    "distance": 800,
+    "price": 2410,
+    "duration": "3N/4D",
+    "hotel": "Western Valley Resorts",
+    "flight": "AirAsia India",
+    "maxGroupSize": 8,
+    "desc": "Ooty is one of the most frequented holiday destinations for tourists from Tamil Nadu, Kerala and Karnataka. Given the fact that the southern part of India gets too hot during the summer season, a trip to Ooty offers the much-needed respite from the heat. This picturesque and serene hill station is also a popular honeymoon destination among couples. Ooty offers stunning views of the Nilgiri Hills and lush green landscapes dotted with alpine woods, clear lakes, emerald green tea estates and colourful blossoms. The hill station also houses the popular Nilgiri Mountain Railway which was declared a UNESCO World Heritage Site in 2005.",
+    "place": "Ooty Botanical Gardens, Dolphin’s Nose, Rose Garden, Avalanche Lake, Doddabetta Peak, St Stephan’s Church, Thread Garden, Kalhatti Falls, Annamalai Temple, Kamraj Sagar Lake, Catherine Falls.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img09.jpg",
+    "photo1": "/tour-images/hotel81.jpg",
+    "photo2": "/tour-images/hotel82.jpg",
+    "photo3": "/tour-images/hotel83.jpg",
+    "photo4": "/tour-images/tour-img091.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Ooty",
+
+        "message1": "Welcome to Tamil Nadu.",
+        "message2": "After refreshments, proceed to visit Botanical Garden, Doddabetta Peak, Rose Garden, and Ooty Lake.",
+        "message3": "Overnight stay at Ooty.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Rameswaram",
+
+        "message1": "Visit Sri Ranganathar Temple, Rock Fort Temple.",
+        "message2": "visit Pamban Bridge, Rama Theertham, Lakshman Theertham, Sita Theertham, Pamban Bridge, Kentha Patha Parvath, Panch Muki Hanuman Temple, Sri Ramachandra Temple (Floating Stone).",
+        "message3": "Overnight stay at Rameswaram.",
+        "img": "/tour-images/a101.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Ooty Sightseeing",
+
+        "message1": "After breakfast, proceed for sightseeing of Ooty.",
+        "message2": "Visit Pykara, Pine Forest, 6th Mile, and Ninth Mile.",
+        "message3": "Return to the hotel.",
+        "img": "/tour-images/a102.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and proceed to Coonoor for sightseeing.",
+        "message2": "In the evening, transfer to the airport for your onward journey back home.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Nusa Penida Bali",
+    "city": "Bali",
+    "address": "Klungkung Regency, Bali, Indonesia.",
+    "distance": 500,
+    "price": 2700,
+    "duration": "4N/5D",
+    "hotel": "BB Resort Villa and Spa",
+    "flight": "SpiceJet",
+    "maxGroupSize": 13,
+    "desc": "Nusa Lembongan is the most popular – and has the most going on. It’s always where I choose to stay in the Nusa Islands, and where I recommend anyone planning a Bali honeymoon to. Nusa Penida is arguably the most beautiful – but the most raw, and remote. If you want to completely disconnect, this is a natural, gorgeous island to do so. And Nusa Ceningan is the smallest, but is very up and coming. Since there is less going on than Nusa L in terms of restaurants, bars, etc. But, that’s changing by the day! Nusa Penida is definitely getting more popular and there are more options popping up in terms of restaurants and hotels.",
+    "place": "Nusa Penida Island, Kelingking Beach, Pasih Uug Beach, Atuh Beach, Crystal Bay, Angel's Billabong.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img05.jpg",
+    "photo1": "/tour-images/hotel51.jpg",
+    "photo2": "/tour-images/hotel52.jpg",
+    "photo3": "/tour-images/hotel53.jpg",
+    "photo4": "/tour-images/tour-img051.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival at Bali",
+
+        "message1": "Welcome to Bali.",
+        "message2": "Upon arrival in Bali, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight stay at Bali.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Tour of Kintamani & Ubud",
+
+        "message1": "After breakfast, proceed to full day tour of Kintamani & Ubud.",
+        "message2": "Visit the artist colony in Ubud, Kintamani town, Lake Batur and Tirta Empul Temple.",
+        "message3": "Watch a traditional Barong Dance performance and enjoy a local lunch.",
+        "img": "/tour-images/a51.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Tanah Lot Sunset Tour",
+
+        "message1": "Spend the day at leisure.",
+        "message2": "Later, proceed to Tanah Lot Sea Temple.",
+        "message3": "Overnight stay at hotel.",
+        "img": "/tour-images/a52.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Leisure day",
+
+        "message1": "Breakfast at the hotel.",
+        "message2": "Indulge in scuba diving or surfing lessons.",
+        "message3": "Overnight stay at hotel.",
+        "img": "/tour-images/a53.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, transfer to Airport for return journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cherry Blossoms Spring",
+    "city": "Tokyo",
+    "address": "Ueno Park, Tokyo.",
+    "distance": 500,
+    "price": 2200,
+    "duration": "3N/4D",
+    "hotel": "Uno Hotel",
+    "flight": "Go First",
+    "maxGroupSize": 8,
+    "desc": "Cherry blossoms are a symbolic flower of the spring, a time of renewal, and the fleeting nature of life. Their life is very short. After their beauty peaks around two weeks, the blossoms start to fall. During this season in Japan, people like to have cherry blossom parties with colleagues, friends, and family. A cherry blossom makes people merry. They enjoy eating, drinking, and barbecuing underneath the cherry blossoms. We call this custom hanami. Hanami literally means “watching blossoms,” and the tradition can be traced back at least a thousand years. We bring cooked meals, alcohol, snacks, and sweets, like a potluck party. Schools and offices hold welcome parties during hanami, a chance for people to bond and meet new friends.",
+    "place": "Washington D.C, Paris, France, Vancouver, Bonn, Jerte Valley, Stockholm, Sweden.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img06.jpg",
+    "photo1": "/tour-images/hotel61.jpg",
+    "photo2": "/tour-images/hotel62.jpg",
+    "photo3": "/tour-images/hotel63.jpg",
+    "photo4": "/tour-images/tour-img061.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Tokyo",
+
+        "message1": "Welcome to Cherry Blossoms Spring.",
+        "message2": "Upon arrival in Tokyo, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Tokyo.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Meiji Shrine, Tokyo ",
+
+        "message1": "Visitors can take part in typical Shinto activities.",
+        "message2": "learn about the history of the shrine.",
+        "message3": "Many Japanese festivals can be witnessed at the shrine all year round.",
+        "img": "/tour-images/a61.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Shibuya",
+
+        "message1": "Shibuya is the largest shopping district in Tokyo.",
+        "message2": "The trendsetting IT hub of Japan gamers and culture enthusiasts.",
+        "message3": "Arcade and gaming culture are at their zenith in Shibuya.",
+        "img": "/tour-images/a62.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, transfer to Airport for return journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Beautiful Snowy Mountains",
+    "city": "Bangkok",
+    "address": "286 Snowy Mountains Highway, Cooma, New South Wales 2630 Australia.",
+    "distance": 500,
+    "price": 1200,
+    "duration": "3N/4D",
+    "hotel": "The Canal Garden Resort",
+    "flight": "Alliance Air",
+    "maxGroupSize": 10,
+    "desc": "“The Snowies” are a vast region containing some of the highest peaks in Australia and serve as a veritable adventure playground all-year-round as during the winter months they are home to some of the country's best ski and snow activities, while in the summer they offer numerous opportunities for off-road adventures from 4WDing, mountain biking, fishing and much more. It's an area that changes its character drastically between the seasons, yet has no less to see and do from one to the next and remains as untouched and pure a part of Australia as still remains.",
+    "place": "Pattaya Floating Market, Chao Phraya River, Safari World Zoo, Sanctuary of Truth, Simon Cabaret Show.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img14.jpg",
+    "photo1": "/tour-images/hotel11.jpg",
+    "photo2": "/tour-images/hotel12.jpg",
+    "photo3": "/tour-images/hotel13.jpg",
+    "photo4": "/tour-images/tour-img141.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Bangkok",
+
+        "message1": "On arrival at Bangkok airport, transfer to the hotel and check in.",
+        "message2": "Spend the rest of the day at leisure.",
+        "message3": "Overnight stay in Bangkok.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Explore Nightlife in Bangkok",
+
+        "message1": "After breakfast, spend the day at leisure.",
+        "message2": "At night visit three famous nightlife spots in Bangkok Pat Pong, Nana Plaza, and Soi Cowboy.",
+        "message3": "Also, visit the famous 'Lady Boy' bars.",
+        "img": "/tour-images/a81.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Private Cruise",
+
+        "message1": "After breakfast, proceed for a memorable shopping experience and visit shopping malls in Bangkok like Siam Square and Siam Paragon and many more.",
+        "message2": "In the evening, head for a private evening cruise to enjoy your last day of Bangkok Nightlife for the Bachelor's Package. ",
+        "message3": "Overnight stay in Bangkok.",
+        "img": "/tour-images/a82.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the international airport to board the flight back home. ",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Holmen Lofoten, France",
+    "city": "Paris",
+    "address": "Flathaugen 36, 8392 Sørvågen, Norway.",
+    "distance": 500,
+    "price": 3200,
+    "duration": "4N/5D",
+    "hotel": "The Tide Hotel",
+    "flight": "Qatar Airways",
+    "maxGroupSize": 8,
+    "desc": "Lofoten is a mecca for hiking, climbing, fishing, kayaking, skiing, Arctic surfing (in the summer AND winter), and cycling. The tourism scene there has a very young vibe, with lots of budget accommodation, and even the luxury accommodation markets itself towards adventure seekers.",
+    "place": "Reinebringen, Haukland Beach, Lofoten Krigsminne Museum, Lofotr Viking Museum, Kvalvika Beach,Uttakleiv Beach.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img07.jpg",
+    "photo1": "/tour-images/hotel71.jpg",
+    "photo2": "/tour-images/hotel72.jpg",
+    "photo3": "/tour-images/hotel73.jpg",
+    "photo4": "/tour-images/tour-img071.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival at Paris",
+
+        "message1": "On arrival at Paris International Airport, transfer to the hotel and check-in.",
+        "message2": "Travel along the banks of the Seine River to Eiffel Tower.",
+        "message3": "Visit the Louvre museum and Notre Dame Cathedral.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Visit Versailles & Giverny",
+
+        "message1": "After breakfast, visit the Palace of Versailles and Monet's Garden at Giverny.",
+        "message2": "Afterward, return to the hotel.",
+        "message3": "Overnight stay in Paris.",
+        "img": "/tour-images/a71.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Visit Disneyland",
+
+        "message1": "Enjoy the day in the magical world of Disneyland Paris.",
+        "message2": "The ticket will give you access to Disneyland Park or Walt Disney Studios Park for one day.",
+        "message3": "Enjoy the themed lands, attractions, and shows.",
+        "img": "/tour-images/a72.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Day at Leisure",
+
+        "message1": "After breakfast, spend the day at leisure.",
+        "message2": "You can explore the city on your own.",
+        "message3": "OR you can go shopping at the Galeries Lafayette or Printemps department stores.",
+        "img": "/tour-images/a73.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Grand Palace",
+    "city": "Bangkok",
+    "address": "Delta of the Chao Phraya River, Thailand.",
+    "distance": 300,
+    "price": 1990,
+    "duration": "5N/6D",
+    "hotel": "Millennium Hilton Bangkok",
+    "flight": "Thai AirAsia",
+    "maxGroupSize": 10,
+    "desc": "Bangkok, Thai Krung Thep, city, capital, and chief port of Thailand. It is the only cosmopolitan city in a country of small towns and villages and is Thailand's cultural and commercial centre. Bangkok is located on the delta of the Chao Phraya River, about 25 miles (40 km) from the Gulf of Thailand.",
+    "place": "Ayutthaya, Samut Prakan, Kanchanaburi, Koh Samet, Koh Si Chang, Koh Larn, Koh Chang, The Floating Vineyards.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img13.jpg",
+    "photo1": "/tour-images/hotel131.jpg",
+    "photo2": "/tour-images/hotel132.jpg",
+    "photo3": "/tour-images/hotel133.jpg",
+    "photo4": "/tour-images/tour-img132.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Bangkok",
+
+        "message1": "On arrival at Bangkok Airport, you will meet our local representative.",
+        "message2": "Spend the rest of the day at leisure.",
+        "message3": "Overnight stay in Pattaya.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Coral Island Tour",
+
+        "message1": "After breakfast, proceed to Coral Island by speedboat.",
+        "message2": "Spend the day luxuriating under the warm tropical sun.",
+        "message3": "After relaxing on the island, have Indian lunch.",
+        "img": "/tour-images/a81.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Pattaya City Tour",
+
+        "message1": "After breakfast, go for a city tour of Pattaya.",
+        "message2": "In the evening, attend the Alcazar Show.",
+        "message3": "Overnight stay in Pattaya.",
+        "img": "/tour-images/a82.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Pattaya to Bangkok",
+
+        "message1": "After breakfast, proceed to Bangkok.",
+        "message2": "Afterward, proceed for a half-day Bangkok temple and city tour.",
+        "message3": "Visit Wat Traimit and Wat Benchamabophit.",
+        "img": "/tour-images/a83.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Phi Phi island Tour",
+
+        "message1": "After breakfast, proceed on the sightseeing of the Phi Phi island by long tail boat.",
+        "message2": "You can engage in the activities such as snorkling, boating and other such water activities.",
+        "message3": "Return to the hotel.",
+        "img": "/tour-images/a84.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/airport.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bora Bora Island",
+    "city": "French Polynesia",
+    "address": "Leeward group of the Society Islands of French Polynesia.",
+    "distance": 230,
+    "price": 1520,
+    "duration": "3N/4D",
+    "hotel": "Oa Oa Lodge",
+    "flight": "Emirates",
+    "maxGroupSize": 10,
+    "desc": "The epitome of romance, Bora Bora is one of the best travel destinations in the World. This place is known for its luxurious stays and adventurous activities. The hotels in Bora Bora offer full privacy and their floating villas have direct entrance to the sea while their terrace is blessed with romantic sunrise & sunset.",
+    "place": "The island of love Moorea, The romantic island Bora Bora, The most photographed isle in the South Pacific Motu Tapu, Fautua Waterfall, Matira Beach, Coral Gardens, Bora Bora Boat Tours, Mount Otemanu.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img15.jpg",
+    "photo1": "/tour-images/hotel91.jpg",
+    "photo2": "/tour-images/hotel92.jpg",
+    "photo3": "/tour-images/hotel93.jpg",
+    "photo4": "/tour-images/tour-img151.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in French",
+
+        "message1": "Welcome to Bora Bora Island.",
+        "message2": "Upon arrival in French, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in French.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Maldives",
+
+        "message1": "The Maldives is an archipelagic state situated in the Indian Ocean known for its luxurious water villas.",
+        "message2": "The Maldives is an archipelago of 1,192 coral islands grouped into natural atolls.",
+        "message3": "Seat to the executive, legislature, and judiciary.",
+        "img": "/tour-images/a111.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Bahamas",
+
+        "message1": "The Bahamas offers over 700 islands waiting for visitors to explore.",
+        "message2": "The perspectives appear to be straight out of the wallpaper.",
+        "message3": "It is a splendid spot to come and gather with your loved ones.",
+        "img": "/tour-images/a112.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Machu Picchu",
+    "city": "Peru",
+    "address": "Northwest of Cuzco, Peru.",
+    "distance": 150,
+    "price": 1120,
+    "duration": "2N/3D",
+    "hotel": "Hotel Inkaterra Machu Picchu",
+    "flight": "JetSmart",
+    "maxGroupSize": 12,
+    "desc": "Huayna Picchu is a mountain in Peru, rising over Machu Picchu, the so-called Lost City of Incas. This place is popular among tourists as the sunrise from the Sun Gate is simply spectacular. The hills here proffer one of the most marvelous views of the main square of Machu Picchu, with the sun in the backdrop.",
+    "place": "Huayna Picchu, Inti Punku, Winay Wayna, Temple of the moon, Puyupatamrca, Llaqtapata, Putucusi, Los Jardine de Mandor, Sayacmarca.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img16.jpg",
+    "photo1": "/tour-images/hotel31.jpg",
+    "photo2": "/tour-images/hotel32.jpg",
+    "photo3": "/tour-images/hotel33.jpg",
+    "photo4": "/tour-images/tour-img161.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Peru",
+
+        "message1": "Welcome to Machu Picchu.",
+        "message2": "Upon arrival in Peru, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Peru.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Lima",
+
+        "message1": "Lima is the most popular metropolitian area of Peru.",
+        "message2": " Lima is home to the highest concentration of museums of the country.",
+        "message3": " Football is most popular here.",
+        "img": "/tour-images/a121.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Chao Phraya River",
+    "city": "Bangkok",
+    "address": "Bangkok, Thailand.",
+    "distance": 600,
+    "price": 2450,
+    "duration": "5N/6D",
+    "hotel": "Shangri-La Hotel",
+    "flight": "IndiGo",
+    "maxGroupSize": 8,
+    "desc": "Glitterati and vibrant is how Bangkok can be described. With lots of floating markets and perfect nightlife, you are about to have the best time of your life at this amazing place. With ladyboys and temples, the place is a unique blend of urban spiritual life. People here are followers of Buddha and the temples are divine.",
+    "place": "The Grand Palace, Wat Pho, Asiatique the Riverfront, Chinatown, Khao San Road, Chatuchak Weekend Market, Bangkok National Museum.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img17.jpg",
+    "photo1": "/tour-images/hotel101.jpg",
+    "photo2": "/tour-images/hotel102.jpg",
+    "photo3": "/tour-images/hotel103.jpg",
+    "photo4": "/tour-images/tour-img171.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Thailand",
+
+        "message1": "Welcome to Snowy Mountains.",
+        "message2": "Upon arrival in Thailand, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Thailand.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Bangkok City Tour",
+
+        "message1": "Atfer breakfast, take a city tour around Bangkok.",
+        "message2": "Visit China Town, Golden Buddha and the Reclining Buddha among other places.",
+        "message3": "Spend the rest of the day at leisure.",
+        "img": "/tour-images/a31.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Singapore Night Safari",
+
+        "message1": "Check-in to hotel and relax.",
+        "message2": "In the evening, go to Night Safari.",
+        "message3": "Overnight stay in Singapore.",
+        "img": "/tour-images/a32.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Coral Island Tour",
+
+        "message1": "Transfer to the speed boat terminal to board boat to Coral Island.",
+        "message2": "Return in time for lunch.",
+        "message3": "Spend the evening at leisure.",
+        "img": "/tour-images/a33.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Universal Studio",
+
+        "message1": "After breakfast proceed to Universal Studio.",
+        "message2": "Spend the day at the Theme Park.",
+        "message3": "Return to hotel for overnight stay.",
+        "img": "/tour-images/a34.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cappadocia",
+    "city": "Turkey",
+    "address": "On the rugged plateau north of the Taurus Mountains, Turkey.",
+    "distance": 400,
+    "price": 1650,
+    "duration": "4N/5D",
+    "hotel": "Cappadocia Inn",
+    "flight": "Turkish Airlines",
+    "maxGroupSize": 8,
+    "desc": "Magic can only be seen and seeing is believing. This amazing place in Turkey offers a breathtaking view that words would fall short when we begin to explain it. Coming to Cappadocia’s you realize that everything done by nature has its own beauty. According to the World Tourism Ranking, 45 Million people visit Turkey each year, and from that about 2 Million come to visit Cappadocia.",
+    "place": "Goreme open-air Museum, Goreme, Hot-air Ballooning, Zelve open-air Museum, Derinkuyu underground city, Red and rose valley, Cavusin, Soganil.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img18.jpg",
+    "photo1": "/tour-images/hotel111.jpg",
+    "photo2": "/tour-images/hotel112.jpg",
+    "photo3": "/tour-images/hotel113.jpg",
+    "photo4": "/tour-images/tour-img181.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Istanbul",
+
+        "message1": "Arrive at Istanbul airport and transfer to the hotel.",
+        "message2": "Rest of the day at your leisure.",
+        "message3": "Overnight stay in Istanbul.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Istanbul Sightseeing",
+
+        "message1": "Have a traditional lunch at the many restaurants serving yummy Turkish foods.",
+        "message2": "Visit the gardens near the Topkapi Palace to stroll and relax after lunch.",
+        "message3": "Spend the evening exploring Grand Bazaar.",
+        "img": "/tour-images/a131.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Istanbul Sightseeing & Bosphorus Cruise",
+
+        "message1": "Explore Taksim square with many of its malls.",
+        "message2": "Later, after a fancy lunch at the Dolbamache Palace, end the evening with a Bosphorus cruise.",
+        "message3": "Transfer to the hotel and overnight stay in Istanbul.",
+        "img": "/tour-images/a132.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Transfer from Istanbul to Cappadocia",
+
+        "message1": "Catch the 2:45 flight to Cappadocia.",
+        "message2": "You will be received at airport and taken to the hotel.",
+        "message3": "In the evening, enjoy the Turkish night with dinner, dances and drinks.",
+        "img": "/tour-images/a133.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Set sail for home, after an incredible Turkish holiday and memories to last a lifetime.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Eiffel Tower",
+    "city": "France",
+    "address": "Paris, France.",
+    "distance": 300,
+    "price": 2530,
+    "duration": "4N/5D",
+    "hotel": "Hotel Belfast",
+    "flight": "Qatar Airways",
+    "maxGroupSize": 10,
+    "desc": "A whopping 89.4 million tourists visiting France each year is not in vain. It certainly has a reason and Paris is perhaps one BIG reason. It’s almost impossible to not fall in love with this city. It is full of history, beauty, and love. The city exudes culture, class, style and sophistication above all.",
+    "place": "Notre Dame Cathedral, Louvre Museum, Montmartre – Wall of Love, Moulin Rouge, Tuileries Garden.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img19.jpg",
+    "photo1": "/tour-images/hotel121.jpg",
+    "photo2": "/tour-images/hotel122.jpg",
+    "photo3": "/tour-images/hotel123.jpg",
+    "photo4": "/tour-images/tour-img191.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival at Paris",
+
+        "message1": "On arrival at the airport in Paris, you will meet our local representative.",
+        "message2": "Transfer to the hotel and check-in.",
+        "message3": "Spend the rest of the day at leisure as per your interests.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Paris City Tour",
+
+        "message1": "Board an open-top bus Paris l'Opentour and enjoy exceptional views of Paris.",
+        "message2": "Explore Paris while listening to nice audio-guided commentaries",
+        "message3": "Return to the hotel.",
+        "img": "/tour-images/a71.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Disneyland Tour",
+
+        "message1": "Proceed to Disneyland.",
+        "message2": "Enjoy the day in the magical world of Disneyland Paris.",
+        "message3": "Overnight stay in Disneyland Paris.",
+        "img": "/tour-images/a72.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Paris Sightseeing",
+
+        "message1": "After breakfast, proceed to the starting point of Hop-on Hop-off Tour of Paris.",
+        "message2": "See the Eiffel Tower and stop off at the Arc de Triomphe.",
+        "message3": "Walk down the Champs-Elysees.",
+        "img": "/tour-images/a73.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Statue of Liberty",
+    "city": "New York",
+    "address": "Liberty Island in New York Harbor, USA.",
+    "distance": 400,
+    "price": 2320,
+    "duration": "5N/6D",
+    "hotel": "The St. Regis New York",
+    "flight": "Air India",
+    "maxGroupSize": 15,
+    "desc": "A city that forever awakens and observes an influx of people throughout the year, you will be thoroughly awed by the skyscrapers in the city. These skyscrapers are built for a reason, and they restore incredible art galleries, and museums, some amazing contemporary cuisine restaurants, and a catalog of things.",
+    "place": "Ellis Island, Central Park, Little Italy and Chinatown, Brooklyn Bridge, Metropolitan Museum of Art, Grand Central Terminal, Financial District, Broadway Show.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img20.jpg",
+    "photo1": "/tour-images/hotel141.jpg",
+    "photo2": "/tour-images/hotel142.jpg",
+    "photo3": "/tour-images/hotel143.jpg",
+    "photo4": "/tour-images/tour-img201.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in New York",
+
+        "message1": "Welcome to Statue of Liberty.",
+        "message2": "Upon arrival in New York, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in New York.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Times Square",
+
+        "message1": "The sights of Times Square are nothing like you will see anyplace else.",
+        "message2": "See a Broadway Show.",
+        "message3": "Soak in the Amazing New York City Energy.",
+        "img": "/tour-images/a91.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Empire State Building",
+
+        "message1": "The building is primarily used as office space by a wide variety of companies.",
+        "message2": "There are shops and eateries on the ground floors.",
+        "message3": "learn more about the building's history.",
+        "img": "/tour-images/a92.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Central Park",
+
+        "message1": "Rock the boat.",
+        "message2": "Monkey around at the Central Park Zoo. Attractions.",
+        "message3": "Enjoy the views at Central Park Mall.",
+        "img": "/tour-images/a93.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Brooklyn Bridge",
+
+        "message1": "Dine in the Fancy River Café Restaurant.",
+        "message2": "Have Strawberry Ice Cream at Brooklyn Ice Cream Factory.",
+        "message3": "Kayak on the East River.",
+        "img": "/tour-images/a94.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Rothenburg",
+    "city": "Germany",
+    "address": "The Franconia region of Bavaria, Germany.",
+    "distance": 450,
+    "price": 2550,
+    "duration": "4N/5D",
+    "hotel": "Hotel Rappen Rothenburg ob der Tauber",
+    "flight": "Gulf Air",
+    "maxGroupSize": 13,
+    "desc": "Rothenburg is one of the most beautiful medieval towns in Germany and part of the famous romantic road through southern Germany. The full name of this city is Rothenburg ob der Tauber means the Red Castle above the Tauber. It is because this town is situated on a knap overlooking the Tauber River.",
+    "place": "The Town Hall Tower, Old town of Rothenburg, The walls of old town, Plonlein, St. James Chruch, Medieval Crime Museum, Klingentor, Rothenburg Museum.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img21.jpg",
+    "photo1": "/tour-images/hotel151.jpg",
+    "photo2": "/tour-images/hotel152.jpg",
+    "photo3": "/tour-images/hotel153.jpg",
+    "photo4": "/tour-images/tour-img211.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Germany",
+
+        "message1": "Welcome to Rothenburg.",
+        "message2": "Upon arrival in Germany, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Germany.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Brussels to Colonge",
+
+        "message1": "After breakfast, proceed to Cologne.",
+        "message2": "Later, visit Historical Cologne Cathedral, Heidelberg, and Hofgut Sternen.",
+        "message3": "Take a stroll down the Alstadt.",
+        "img": "/tour-images/a141.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Cologne to Lucerne",
+
+        "message1": "After breakfast, proceed to Lucerne.",
+        "message2": "Later, proceed for an orientation tour of Lucerne.",
+        "message3": "Visit Schaffhausen and Rhine Falls.",
+        "img": "/tour-images/a142.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Excursion to Mt. Titlis",
+
+        "message1": "After breakfast, visit Mt.Titlis in the revolving cable car.",
+        "message2": "Also, visit the Cliff Walk.",
+        "message3": "Return to the Lucerne.",
+        "img": "/tour-images/a143.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Guanajuato",
+    "city": "Mexico",
+    "address": "Plaza Principal S/N, Centro C.P. 37000 Leon, Guanajuato Mexico.",
+    "distance": 555,
+    "price": 2600,
+    "duration": "5N/6D",
+    "hotel": "Hotel Camino Real Guanajuato",
+    "flight": "British Airways",
+    "maxGroupSize": 18,
+    "desc": "A city in central Mexico, Guanajuato is known for its history of silver mining and colonial architecture. The houses in the city are very attractively painted with the most bright colors available. Because of its picture-perfect beauty, the city is visited by more than 28 million people each year.",
+    "place": "Guanajuato underground tunnels, The Basilica of Our Lady, Guanajuato old town, Mummy Museum, Pipila Monument, The Alley of the Kiss, La Valenciana Church.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img22.jpg",
+    "photo1": "/tour-images/hotel161.jpg",
+    "photo2": "/tour-images/hotel162.jpg",
+    "photo3": "/tour-images/hotel163.jpg",
+    "photo4": "/tour-images/tour-img221.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Mexico",
+
+        "message1": "Welcome to Guanajuato",
+        "message2": "Upon arrival in Mexico, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight stay at Mexico.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Cancun",
+
+        "message1": "Cancun is one of Mexico's premier tourist destination attracting more than a thousand visitors every month.",
+        "message2": "After breakfast, visit Cancun city.",
+        "message3": "Overnight stay at Mexico.",
+        "img": "/tour-images/a151.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Mexico",
+
+        "message1": "There are innumerable historic sites to explore, amazing arts to appreciate, mouth-watering Mexican dishes to taste, and an extravagant nightlife to pour in the real magic.",
+        "message2": "Afterward, return to the hotel.",
+        "message3": "Overnight stay at Mexico.",
+        "img": "/tour-images/a152.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Playa del Carmen",
+
+        "message1": "Sunbathing and swimming on the shore, you can also go for diving into the crystal-clear water, or snorkel into the ocean to befriend colorful tropical fishes.",
+        "message2": "Afterward, return to the hotel.",
+        "message3": "Overnight stay at Mexico.",
+        "img": "/tour-images/a153.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Roswell",
+
+        "message1": "Visit to The International UFO Museum and Research Center which exhibits alien art and UFO sighting reports.",
+        "message2": "The Bitter Lake National Wildlife Refuge is a perfect choice for a day in the wild and exploring nature.",
+        "message3": "Go around the city exploring the alleged alien sites and museums while enjoying the local cuisine.",
+        "img": "/tour-images/a154.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Angkor Wat",
+    "city": "Cambodia",
+    "address": "Krong Siem Reap, Cambodia.",
+    "distance": 200,
+    "price": 2600,
+    "duration": "4N/5D",
+    "hotel": "Blanc Smith Residence",
+    "flight": "Thai Airways International",
+    "maxGroupSize": 11,
+    "desc": "Angkor Wat is one of the most famous archaeological sites in South-East Asia. Stretching over 400 acres of Land, Angkor War is said to be the biggest religious monument in the world. Originally, it was dedicated to the Hindu God Vishnu but at end of the 12th century, it becomes a Buddhist temple. Now, it is no longer a temple, it serves as one of the best tourist destinations in Cambodia.",
+    "place": "Ta Prohm Temple, The Bayon Temple, Ta Som, Terrace of the elephants, Preah Khan Temple.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img23.jpg",
+    "photo1": "/tour-images/hotel171.jpg",
+    "photo2": "/tour-images/hotel172.jpg",
+    "photo3": "/tour-images/hotel173.jpg",
+    "photo4": "/tour-images/tour-img231.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Hanoi",
+
+        "message1": "On arrival at Hanoi, transfer to the hotel and check in.",
+        "message2": "Spend the rest of the day at leisure.",
+        "message3": "Overnight stay in Hanoi. ",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Phnom Penh City Tour",
+
+        "message1": "After breakfast, proceed for a group tour of Phnom Penh.",
+        "message2": "Visit the Royal Palace.",
+        "message3": "Visit Tonle Sap and Mekong River Side before the tour ends.",
+        "img": "/tour-images/a161.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Phnom Penh to Siem Reap",
+
+        "message1": "After breakfast, proceed to Siem Reap by bus.",
+        "message2": "On arrival at Siem Reap, check in to the hotel.",
+        "message3": "Overnight stay in Siem Reap.",
+        "img": "/tour-images/a162.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Siem Reap City Tour",
+
+        "message1": "After breakfast, proceed for a group tour of Phnom Penh.",
+        "message2": "Explore the temples of Angkor National Park.",
+        "message3": "Visit the Elephant Terrace. Visit Angkor Wat and Angkor Thom City, where there are many other Angkor monuments.",
+        "img": "/tour-images/a163.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your return flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cinque Terre",
+    "city": "Italy",
+    "address": "Liguria, in the northwest of Italy.",
+    "distance": 105,
+    "price": 1600,
+    "duration": "6N/7D",
+    "hotel": "Hotel Villa Argentina",
+    "flight": "Air India",
+    "maxGroupSize": 10,
+    "desc": "Cinque Terre means five lands comprising the five villages of Riomaggiore, Manarola, Vernazza, Monterosso and Corniglia, those are located in Italy’s northwestern coastal region of Liguria. All these five villages are linked with a hiking trail called Sentiero Azzurro cliffside.",
+    "place": "Ramble around Cinque Terre, Views of Santuario di Nostra Signora di Montenero, Explore Portovenere, Best sunset spot in Cinque Terre, Cinque Terre National Park, Via Fegina.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img24.jpg",
+    "photo1": "/tour-images/hotel181.jpg",
+    "photo2": "/tour-images/hotel182.jpg",
+    "photo3": "/tour-images/hotel183.jpg",
+    "photo4": "/tour-images/tour-img241.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Rome",
+
+        "message1": "Arrive at the Airport and a representative will assist with transfer to hotel.",
+        "message2": "Visit Largo di Torre Argentina, Palazzo Farnese and Palazzo della Cancelleria.",
+        "message3": "In the evening, go for a picture tour to iconic spots around Rome such as the Trevi Fountain and Turtle Fountain.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Exploring Ancient Rome",
+
+        "message1": "Spend the day touring through the remnants of Imperial Rome.",
+        "message2": "Visit the Roman Forum, Colosseum, the Arch of Constantine, the Arch of Titus, Circus Maximus and the Baths of Caracalla.",
+        "message3": "Also go to Buco della serratura dell’Ordine di Malta for a unique view of St. Peter's Basilica.",
+        "img": "/tour-images/a171.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Travel to Florence",
+
+        "message1": "In the morning, proceed to Florence.",
+        "message2": "Visit the Duomo, Santa Maria Novella, Basilica of Santa Croce, Pitti Palace and the Uffizi Gallery.",
+        "message3": "End the day with some shopping near the Ponte Vecchio.",
+        "img": "/tour-images/a172.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Exploring Venice",
+
+        "message1": "Transfer to Venice in the morning.",
+        "message2": "Visit St. Mark's square, Basilica di San Marco, Doge's Palace and the Bridge of Sighs.",
+        "message3": "Later, take a Vaporetto ride through the Grand Canal and see the famous Rialto Bridge.",
+        "img": "/tour-images/a173.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Island Tour",
+
+        "message1": "Explore the Muranom, Burano & Torcello Islands by Vaporetto.",
+        "message2": "Visit the Glass Museum and Basilica dei Santi Maria e Donato at Muranom, Museo del Merletto and San Martino in Burano and Torcella Basilica and Casa Museo Andrich in Torcello.",
+        "message3": "In the evening, go shopping at T Fondaco dei Tedeschi.",
+        "img": "/tour-images/a174.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Transfer to Pisa",
+
+        "message1": "Go sightseeing around the region.",
+        "message2": "Visit the Cathedral of Santa Maria Assunta, Leaning Tower of Pisa, National Museum of Pisa, Place des Cavaliers and the Palazzo Blu Museum.",
+        "message3": "In the evening, watch the sunset over the Ponte di Mezzo bridge and take a stroll along River Arno.",
+        "img": "/tour-images/a175.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Taj Mahal",
+    "city": "India",
+    "address": "Agra, India.",
+    "distance": 205,
+    "price": 3500,
+    "duration": "4N/5D",
+    "hotel": "The Oberoi Amarvilas",
+    "flight": "Alliance Air",
+    "maxGroupSize": 10,
+    "desc": "An immense mausoleum of white marble, built-in Agra by Mughal emperor Shah Jahan in memory of his wife Mumtaz, the monument is breathtakingly beautiful. The tranquility of white is universally spread over the Taj. It is one of the masterpieces of world heritage and also one of the best travel destinations in the world.",
+    "place": "Agra Fort, Mehtab Bagh, Jama Masjid, Wildlife SOS, Fatehpur Sikri, Shopping in Agra.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img25.jpg",
+    "photo1": "/tour-images/hotel191.jpg",
+    "photo2": "/tour-images/hotel192.jpg",
+    "photo3": "/tour-images/hotel193.jpg",
+    "photo4": "/tour-images/tour-img251.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in india",
+
+        "message1": "Welcome to Agra, India.",
+        "message2": "Upon arrival in india, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in india.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Srinagar to Gulmarg",
+
+        "message1": "After breakfast in the morning, begin the country tour towards Gulmarg.",
+        "message2": "Enroute, enjoy the view from Tangmarg to Gulmarg.",
+        "message3": "Enjoy the scenic view of the valley on a Cable Car known as Gondola or a pony ride.",
+        "img": "/tour-images/a181.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Gulmarg to Pahalgam",
+
+        "message1": "After breakfast, move towards Pahalgam.",
+        "message2": "Visit Awantipora Temple and Mattan Temple.",
+        "message3": "Relax and spend some time at Lidder River.",
+        "img": "/tour-images/a182.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Pahalgam to Srinagar",
+
+        "message1": "After breakfast, feel free to stroll around and enjoy the beauty of Pahalgam.",
+        "message2": "Leave in time from Pahalgam to Srinagar which will take about 2 hours to reach.",
+        "message3": "Spend the evening at leisure to explore the Srinagar city.",
+        "img": "/tour-images/a183.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "River Safari",
+    "city": "Singapore",
+    "address": "80 Mandai Lake Rd, Singapore.",
+    "distance": 245,
+    "price": 1300,
+    "duration": "5N/6D",
+    "hotel": "JW Marriott Hotel Singapore South Beach",
+    "flight": "IndiGo",
+    "maxGroupSize": 15,
+    "desc": "Spot some wonderful and rare aquatic animals here at this safari. This is a wonderful place for kids to enjoy and earn about various species that live underwater. Electric Eels, giant Ghariyal, Giant anteaters, panda forest are some of the underwater animals that can be spotted here.",
+    "place": "Garden by the Bay, Marina Bay Sands, Singapore Flyer, Sentosa, Chinatown and Merlion.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img26.jpg",
+    "photo1": "/tour-images/hotel201.jpg",
+    "photo2": "/tour-images/hotel202.jpg",
+    "photo3": "/tour-images/hotel203.jpg",
+    "photo4": "/tour-images/tour-img261.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Singapore & Night Safari",
+
+        "message1": "On arrival in Singapore, transfer to the hotel.",
+        "message2": "In the evening, enjoy the Night Safari.",
+        "message3": "Hop on board the tram for a 40-minute journey of wild animal encounters.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Singapore City Tour & Sentosa Tour",
+
+        "message1": "After breakfast, proceed for a city tour of Singapore.",
+        "message2": "Later proceed to Sentosa by one-way cable car ride from Mount Faber.",
+        "message3": "Watch Images of Singapore and Wings of Time shows.",
+        "img": "/tour-images/a191.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Universal Studios Tour",
+
+        "message1": "After breakfast, proceed for Universal Studios, a Hollywood movie theme park.",
+        "message2": "Enjoy the park's many rides and exciting attractions.",
+        "message3": "Watch live entertainment based on the movie Waterworl.",
+        "img": "/tour-images/a192.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Jurong Bird Park Tour",
+
+        "message1": "After breakfast, proceed to Jurong Bird Park.",
+        "message2": "At the Jurong Bird Park visit the Bird Discovery Centre, African Waterfall Aviary, Lory Loft Aviary, Southeast Asian Birds Aviary, Penguin Coast, and Wings of Asia.",
+        "message3": "Return to the hotel.",
+        "img": "/tour-images/a193.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Visit to Gardens By the Bay",
+
+        "message1": "After breakfast, proceed to Gardens By the Bay.",
+        "message2": "Enjoy the diversity of plant species from around the world in the cooled conservatories, marvel at vertical gardens, or discover the intricacies of plant life at the themed gardens.",
+        "message3": "Return to the hotel.",
+        "img": "/tour-images/a194.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Zakynthos",
+    "city": "Greece",
+    "address": "The west of the Greek mainland and lies northwest of the Peloponnese.",
+    "distance": 210,
+    "price": 1500,
+    "duration": "5N/6D",
+    "hotel": "Villa Anna",
+    "flight": "Gulf Air",
+    "maxGroupSize": 15,
+    "desc": "Zakynthos is a Greek island in the Ionian Sea and a well-known summer resort. The harbor city of Zakynthos is the capital and major hub, centered around waterfront Solomos Square. Popular beaches like Agios Nikolaos, Alykanas and Tsilivi offer swimming and water sports.",
+    "place": "Santorini, Corfu, Crete, Mykonos, Acropolis, Athens, Delph.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img27.jpg",
+    "photo1": "/tour-images/hotel211.jpg",
+    "photo2": "/tour-images/hotel212.jpg",
+    "photo3": "/tour-images/hotel213.jpg",
+    "photo4": "/tour-images/tour-img271.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Athens",
+
+        "message1": "Upon arrival, our representative will transfer you to your hotel.",
+        "message2": "Spend the rest of the day at leisure.",
+        "message3": "Overnight in Athens Hotel.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Athens Sightseeing",
+
+        "message1": "Continue and visit the place where the statues finally found their home and admire the wonders of the classical era, the museum of Acropolis.",
+        "message2": "Drop off at the hotel or the city centre at the end of the tour.",
+        "message3": "Spend the rest of the day at your leisure.",
+        "img": "/tour-images/a201.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Transfer from Athens to Mykonos",
+
+        "message1": "Our representative will transfer you to the Athens port of Piraeus and take the speed boat to the island of Mykonos.",
+        "message2": "Upon arrival at the port of Mykonos, you will be assisted and transferred to your hotel by our representative.",
+        "message3": "Overnight stay in Mykonos Hotel.",
+        "img": "/tour-images/a202.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Mykonos Sightseeing",
+
+        "message1": "You may visit Paraportiani - one of the 365 churches on the island, and in the evening, enjoy the famous nightlife of the island.",
+        "message2": " Windmills give an extra romantic touch to this lovely island.",
+        "message3": "Overnight stay in Mykonos Hotel.",
+        "img": "/tour-images/a203.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Transfer from Mykono to Santorini",
+
+        "message1": "Transfer to Mykonos port and take the speed boat to the island of Santorini.",
+        "message2": "Meet at Santorini port and transfer to the hotel.",
+        "message3": "Spend the rest of the day at leisure.",
+        "img": "/tour-images/a204.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Milford Sound",
+    "city": "New Zealand",
+    "address": "The south west of New Zealand's South Island within Fiordland National Park, Piopiotahi.",
+    "distance": 310,
+    "price": 1700,
+    "duration": "4N/5D",
+    "hotel": "Microtel Wellington",
+    "flight": "Emirates",
+    "maxGroupSize": 15,
+    "desc": "The scene around Milford Sound still bears proof of its creation as an epic landscape: Cliffs rise from fjords crowned by mountains and waterfalls.The water from the surface goes underneath to visit the main coasting, submerged observatory in New Zealand, Milford Discovery Center and Underwater Observatory.",
+    "place": "Milford Sound Underwater, Mitre Peak, Harrison Cove, Milford Sound Lodge, Anita Bay, Bowen Falls, Go Orange Cruise, Milford Track.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img28.jpg",
+    "photo1": "/tour-images/hotel221.jpg",
+    "photo2": "/tour-images/hotel222.jpg",
+    "photo3": "/tour-images/hotel223.jpg",
+    "photo4": "/tour-images/tour-img281.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrive at Auckland",
+
+        "message1": "Arrive at the airport, where you will meet our representative.",
+        "message2": "You will be private to your hotel from the airport.",
+        "message3": "Overnight stay in Auckland.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Auckland – Rotorua",
+
+        "message1": "After breakfast, check out from the hotel and head to Rotorua.",
+        "message2": "Enjoy a silent boat ride through this Glow worm Grotto glides quietly beneath the light of thousands of glow worms sticking to the cave ceiling.",
+        "message3": "Once at Rotorua, check in to the hotel.",
+        "img": "/tour-images/a211.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Rotorua – Queenstown",
+
+        "message1": "In the morning after breakfast, check out and head to Rotorua airport.",
+        "message2": "Fly to Queenstown, where on arrival you will be picked up and transferred to your hotel.",
+        "message3": "The rest of the day is at leisure.",
+        "img": "/tour-images/a212.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Queenstown - Milford Soun Cruise",
+
+        "message1": "After breakfast, head to Milford.",
+        "message2": "During our Milford Sound scenic cruises, you'll marvel at Mitre Peak and feel the spray of Fairy and Sterling waterfalls on your face as you take in the Fiordland scenery.",
+        "message3": "In the evening return back to Queenstown.",
+        "img": "/tour-images/a213.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Blue Lake Luzern",
+    "city": "Switzerland",
+    "address": "Lucerne, Switzerland.",
+    "distance": 350,
+    "price": 1750,
+    "duration": "5N/6D",
+    "hotel": "W Verbier",
+    "flight": "Swiss International Air Lines",
+    "maxGroupSize": 15,
+    "desc": "Lucerne, a city in Central Switzerland, without a doubt, justifies the claim of the most lovely city in Switzerland and also the most beautiful vacation spots in the world. Every year more than 9 million tourists witness this beautiful place. It is a paradise for newlyweds and you will often observe couples there.",
+    "place": "Old Town, Lucerne, Mount Pilatus, Chapel Bridge, Mount Rigi, Lake Lucerne, Natur-Museum Lucerne, Lion Monument, Spreuer Bridge, Swiss Museum of Transport.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img29.jpg",
+    "photo1": "/tour-images/hotel231.jpg",
+    "photo2": "/tour-images/hotel232.jpg",
+    "photo3": "/tour-images/hotel233.jpg",
+    "photo4": "/tour-images/tour-img291.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Geneva",
+
+        "message1": "On arrival at Geneva Airport, transfer to the hotel and check-in.",
+        "message2": "Spend the rest of the day at leisure.",
+        "message3": "Overnight stay in Geneva.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Geneva City Tour",
+
+        "message1": "After breakfast, proceed to Geneva Bus Station (Place Dorcière) for your Geneva City Tour.",
+        "message2": "Visit the International part of Geneva through the centre of the world’s peacemaking organisations.",
+        "message3": "Visit the Fountain and the Flower Clock.",
+        "img": "/tour-images/a211.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Geneva to Interlaken",
+
+        "message1": "After breakfast, transfer to Geneva Train Station to board the train to Interlaken.",
+        "message2": "On arrival in Interlaken, check in to the hotel.",
+        "message3": "Spend the rest of the day at leisure.",
+        "img": "/tour-images/a222.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Interlaken to Lucerne",
+
+        "message1": "Later, check out of the hotel and transfer to the train station to board the train to Lucerne.",
+        "message2": "On arrival in Lucerne, check in to the hotel.",
+        "message3": "Spend the rest of the day exploring Lucerne or shop.",
+        "img": "/tour-images/a223.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Excursion to Mount Titlis",
+
+        "message1": "Enjoy a ride in the world's first-ever revolving 'ROTAIR' gondola.",
+        "message2": "Afterward, descent to Engelberg and board the coach to return to Lucerne.",
+        "message3": "On arrival in Lucerne, proceed for a short tour and go shopping.",
+        "img": "/tour-images/a224.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Madrid",
+    "city": "Spain",
+    "address": "Avenida de Asturias, 9, Esquina Antonio González Echarte, CP 28029, Madrid, Spain.",
+    "distance": 300,
+    "price": 2950,
+    "duration": "5N/6D",
+    "hotel": "The Oasis By Don Carlos Resort",
+    "flight": "Etihad Airways",
+    "maxGroupSize": 10,
+    "desc": "Madrid, the Capital of Spain is one of the best travel destinations in the world. This city is famous for being open for all kinds of travelers with the famous museums, busy streets, vibrant nightlife, cultural heritage, scenic structure, century-old bars and clam historic spots.",
+    "place": "Barcelona, Seville, Majorca, Málaga, Tenerife, Valencia, Granada, Ibiza, Palma.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img30.jpg",
+    "photo1": "/tour-images/hotel241.jpg",
+    "photo2": "/tour-images/hotel242.jpg",
+    "photo3": "/tour-images/hotel243.jpg",
+    "photo4": "/tour-images/tour-img301.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival at London",
+
+        "message1": "Arrive at London Heathrow Airport and a represenatitve will assist with transfer.",
+        "message2": "Check-in to hotel and spend the day at leisure.",
+        "message3": "Dinner and overnight stay at London.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Explore Geneva",
+
+        "message1": "After breakfast in the hotel, head to the snow capped Glacier 3000 via cable car from Les Diablerets.",
+        "message2": "Enjoy a lunch at the peak and return to Geneva for a tour of the city.",
+        "message3": "Overnight stay at Geneva.",
+        "img": "/tour-images/a231.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Cruise to Barcelona",
+
+        "message1": "Enjoy the day relaxing onboard the cruise.",
+        "message2": "Lunch will be served on the cruise.",
+        "message3": "Reach Barcelona and check in to hotel.",
+        "img": "/tour-images/a232.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": " Travel to Valencia",
+
+        "message1": "After breakfast, head for a guided tour of the city.",
+        "message2": "Experience the Catalan culture and view monuments like La Familia Segrada, the Camp Nou stadium etc.",
+        "message3": "After lunch, proceed to Valencia by coach.",
+        "img": "/tour-images/a233.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Sightseeing around Madrid",
+
+        "message1": "Spend the day exploring the city on a guided tour.",
+        "message2": "View the Royal Palace, the City Center, the Plaza mayor and countless other monuments.",
+        "message3": "Spend the rest of the day at leisure.",
+        "img": "/tour-images/a234.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Hyde Park",
+    "city": "London",
+    "address": "The borough of Westminster, London.",
+    "distance": 290,
+    "price": 1750,
+    "duration": "6N/7D",
+    "hotel": "Hotel Dorsett Shepherds Bush",
+    "flight": "Swiss International Air Lines",
+    "maxGroupSize": 16,
+    "desc": "London is one of the biggest and most populated cities in the world and that makes it the best place to visit in the world. London is a fashion hub and cultural capital. Visitors come here to enjoy its royalty, pubs, theater, museum and the amazing landscape it offers.",
+    "place": "The London Tower, Tower Bridge, The British Museum, Big Ben and Parliament, National Gallery, The Victoria and Albert Museum, Churchill’s War Rooms, Covent Garden.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img31.jpg",
+    "photo1": "/tour-images/hotel251.jpg",
+    "photo2": "/tour-images/hotel252.jpg",
+    "photo3": "/tour-images/hotel253.jpg",
+    "photo4": "/tour-images/tour-img311.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival at london",
+
+        "message1": "On arrival at London Heathrow International airport, transfer to the hotel and check-in.",
+        "message2": "Visit St. Paul’s Cathedral, Buckingham Palace, Hyde Park, and many more.",
+        "message3": "You can hop off and embark on a cruise with the 24 hour day pass.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Excursion to Windsor Castle",
+
+        "message1": "After breakfast, visit Windsor Castle - one of Queen Elizabeth II’s official residences.",
+        "message2": "After visiting Windsor Castle, return to the hotel.",
+        "message3": "Overnight stay in London.",
+        "img": "/tour-images/a11.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Day at Leisure",
+
+        "message1": "After breakfast, spend the day at leisure to explore the places of your interest.",
+        "message2": "You may either opt for any of the sightseeing options like Skip the Line British museum guided tour or London Eye.",
+        "message3": "Overnight stay in London.",
+        "img": "/tour-images/a12.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "London to Paris",
+
+        "message1": "After breakfast, proceed to Paris.",
+        "message2": "On arrival at the station in Paris, transfer to the hotel and check-in.",
+        "message3": "In the evening, embark on an illumination tour of the city famous for its landmarks and monuments.",
+        "img": "/tour-images/a13.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Versailles Palace Tour",
+
+        "message1": "After breakfast, embark on a Versailles Palace tour with its vast landscapes and gardens.",
+        "message2": "After the tour, return to the hotel.",
+        "message3": "Overnight stay in Paris.",
+        "img": "/tour-images/a14.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Paris Sightseeing",
+
+        "message1": "After breakfast, proceed for a Hop on Hop off tour of the city.",
+        "message2": "Visit Eiffel Tower, Champs Elysees, Louvre and many more.",
+        "message3": "Later in the evening, go shopping at the many famous department stores.",
+        "img": "/tour-images/a15.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Deaprture",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your flight back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Colosseum Rome",
+    "city": "Italy",
+    "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy.",
+    "distance": 400,
+    "price": 3250,
+    "duration": "6N/7D",
+    "hotel": "Hotel La Rovere",
+    "flight": "Turkish Airlines",
+    "maxGroupSize": 12,
+    "desc": "The Colosseum is one of the best tourist spots in Rome. It is one of the most recognized monuments in the world. Every year over 6 million tourists visit it. It stands as an iconic symbol of ancient imperial Rome’s architectural and engineering powerness. Nearly after the 2000 years of construction, the colosseum is still stood and this is the major reason behind its popularity.",
+    "place": "Ramble around Cinque Terre, Views of Santuario di Nostra Signora di Montenero, Explore Portovenere, Best sunset spot in Cinque Terre, Cinque Terre National Park, Via Fegina.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img32.jpg",
+    "photo1": "/tour-images/hotel261.jpg",
+    "photo2": "/tour-images/hotel262.jpg",
+    "photo3": "/tour-images/hotel263.jpg",
+    "photo4": "/tour-images/tour-img321.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Rome",
+
+        "message1": "Arrive at the Airport and a representative will assist with transfer to hotel.",
+        "message2": "Visit Largo di Torre Argentina, Palazzo Farnese and Palazzo della Cancelleria.",
+        "message3": "In the evening, go for a picture tour to iconic spots around Rome such as the Trevi Fountain and Turtle Fountain.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Exploring Ancient Rome",
+
+        "message1": "Spend the day touring through the remnants of Imperial Rome.",
+        "message2": "Visit the Roman Forum, Colosseum, the Arch of Constantine, the Arch of Titus, Circus Maximus and the Baths of Caracalla.",
+        "message3": "Also go to Buco della serratura dell’Ordine di Malta for a unique view of St. Peter's Basilica.",
+        "img": "/tour-images/a171.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Travel to Florence",
+
+        "message1": "In the morning, proceed to Florence.",
+        "message2": "Visit the Duomo, Santa Maria Novella, Basilica of Santa Croce, Pitti Palace and the Uffizi Gallery.",
+        "message3": "End the day with some shopping near the Ponte Vecchio.",
+        "img": "/tour-images/a172.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Exploring Venice",
+
+        "message1": "Transfer to Venice in the morning.",
+        "message2": "Visit St. Mark's square, Basilica di San Marco, Doge's Palace and the Bridge of Sighs.",
+        "message3": "Later, take a Vaporetto ride through the Grand Canal and see the famous Rialto Bridge.",
+        "img": "/tour-images/a173.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Island Tour",
+
+        "message1": "Explore the Muranom, Burano & Torcello Islands by Vaporetto.",
+        "message2": "Visit the Glass Museum and Basilica dei Santi Maria e Donato at Muranom, Museo del Merletto and San Martino in Burano and Torcella Basilica and Casa Museo Andrich in Torcello.",
+        "message3": "In the evening, go shopping at T Fondaco dei Tedeschi.",
+        "img": "/tour-images/a174.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Transfer to Pisa",
+
+        "message1": "Go sightseeing around the region.",
+        "message2": "Visit the Cathedral of Santa Maria Assunta, Leaning Tower of Pisa, National Museum of Pisa, Place des Cavaliers and the Palazzo Blu Museum.",
+        "message3": "In the evening, watch the sunset over the Ponte di Mezzo bridge and take a stroll along River Arno.",
+        "img": "/tour-images/a175.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bryce Canyon Bryce",
+    "city": "Utah",
+    "address": "On the eastern edge of the Paunsaugunt Plateau in south central Utah.",
+    "distance": 400,
+    "price": 2480,
+    "duration": "5N/6D",
+    "hotel": "The Little America Hotel",
+    "flight": "Air France",
+    "maxGroupSize": 10,
+    "desc": "Bryce Canyon National Park is an American national park located in southwestern Utah. This place is famous for layered red and orange sedimentary as it provides the mystique beauty to this place. The presence of hoodoos which are geological structures has made this place a famous one with more than 2 million people visiting it every year.",
+    "place": "Navajo Loop Trail, Queens Garden Trail, Mossy Cave, Inspiration point, Bryce Amphitheater, Fairyland Canyon, Wall Street, Thors Hammer, Bristlecone Point.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img33.jpg",
+    "photo1": "/tour-images/hotel271.jpg",
+    "photo2": "/tour-images/hotel272.jpg",
+    "photo3": "/tour-images/hotel273.jpg",
+    "photo4": "/tour-images/tour-img331.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Utah",
+
+        "message1": "Welcome to Bryce Canyon Bryce!",
+        "message2": "Upon arrival in Utah, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Utah",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Zion National Park.",
+
+        "message1": " The most popular hikes in Zion are accessed off the Zion Canyon Scenic Drive and the Zion-Mount Carmel Highway.",
+        "message2": "The Zion-Mount Carmel Highway runs east-west through the park and is also a must-do drive.",
+        "message3": "Sometimes referred to as a vertical park due to its sheer vertical walls, Zion is a hiker's paradise. ",
+        "img": "/tour-images/a241.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Arches National Park",
+
+        "message1": "The best places to visit in the park are Devil's Garden, Delicate Arch, Fiery Furnace, Double Arch.",
+        "message2": "walking trails and hikes lead to the most popular arches and other interesting rock formations.",
+        "message3": "The park is considerably higher than the town and reached via a winding road with impressive views.",
+        "img": "/tour-images/a242.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Lake Powell",
+
+        "message1": "Watercraft is another possibility for enthusiasts; you can get a hand from one of the available rental companies.",
+        "message2": "A quiet and relaxing stay in a houseboat could also work for you.",
+        "message3": "Visitors love Lake Powell for its shoreline stretch of 2,000 miles and lovely sunny weather.",
+        "img": "/tour-images/a243.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Park City Mountain Resort",
+
+        "message1": "Park City Mountain Resort sits on 7,300 acres of mountain.",
+        "message2": "If you feel unconfident or rusty, you can join the US ski team’s training.",
+        "message3": "One of the best things any snow-lover would do is let loose and enjoy the cold.",
+        "img": "/tour-images/a244.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Sydney",
+    "city": "Australia",
+    "address": "1 Kellett Ave, Sydney, New South Wales 2011 Australia.",
+    "distance": 500,
+    "price": 3280,
+    "duration": "5N/6D",
+    "hotel": "Brisbane Marriott Hotel",
+    "flight": "Etihad Airways",
+    "maxGroupSize": 16,
+    "desc": "The city is very multicultural, so the food on offer is delicious, and it’s also a fantastic shopping destination. It is one of the most visited tourist destinations in the country and the best holiday destination in the world, attracting over 32 million visitors per year.",
+    "place": "Opera house, Harbour bridge, Bodi Beach, Royal Botanic Garden, Darling Harbour, Queen Victoria Building, The Sydney Tower Eye, Taronga Zoo.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img34.jpg",
+    "photo1": "/tour-images/hotel281.jpg",
+    "photo2": "/tour-images/hotel282.jpg",
+    "photo3": "/tour-images/hotel283.jpg",
+    "photo4": "/tour-images/tour-img341.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrive at Brisbane",
+
+        "message1": "Arrive at Brisbane airport and transfer to the hotel at Gold Coast.",
+        "message2": "Check in to the hotel and spend the day at leisure exploring around.",
+        "message3": "Overnight stay in Gold Coast at the hotel.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Full Day at Movie World",
+
+        "message1": "Post Breakfast, transfer to the  Movieworld and spend the whole day.",
+        "message2": "Return to the hotel.",
+        "message3": "Overnight stay at your Hotel.",
+        "img": "/tour-images/a251.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Goldcoast - Sydney",
+
+        "message1": "After Breakfast, Check-out and depart for Sydney.",
+        "message2": "Arrive in Sydney and check in to the hotel.",
+        "message3": "Spend the day at leisure.",
+        "img": "/tour-images/a252.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Sydney Sightseeing",
+
+        "message1": "Visit Opera House, Sydney Harbour Bridge, Manly Beach, etc.",
+        "message2": "Later, go to the nearest King Street Stop, Darling Harbour, and Proceed to Aquarium to exchange Sydney Combo 2 Pass for Entry to Syd Aquarium",
+        "message3": "In the evening, enjoy the Sydney Showboat Standard Indian Dinner Cruise.",
+        "img": "/tour-images/a253.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Blue Mountain Tour",
+
+        "message1": "After Breakfast, head for the Blue Mountain Tour.",
+        "message2": "Along with the Blue Mountains Tour enjoy the Wildlife Park and RiverCat Cruise.",
+        "message3": "Return to the hotel and overnight stay.",
+        "img": "/tour-images/a254.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Niagara Falls",
+    "city": "Canada",
+    "address": "Ontario, nearby Toronto.",
+    "distance": 600,
+    "price": 2880,
+    "duration": "6N/7D",
+    "hotel": "La cache du Domaine",
+    "flight": "Air France",
+    "maxGroupSize": 15,
+    "desc": "Niagara Falls is one of the highest waterfalls in the world. It is a collection of three waterfall which is located on the US-Canada border along with the Niagara River. Every year more than 30 million people visit it. You can see this waterfall from both Canada and US. There is a number of viewpoints of this waterfall like Skylon Tower, Queen Victoria Park, Table rock etc.",
+    "place": "Niagara SkyWheel, Journey Behind the Falls, Skylon Tower, Cave of the Winds, Rainbow International Bridge, Queen Victoria Park, Niagara Parks Botanical Gardens.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img35.jpg",
+    "photo1": "/tour-images/hotel291.jpg",
+    "photo2": "/tour-images/hotel292.jpg",
+    "photo3": "/tour-images/hotel293.jpg",
+    "photo4": "/tour-images/tour-img351.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Canada",
+
+        "message1": "Welcome to Canada.",
+        "message2": "Upon arrival in Canada, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight stay at Canada.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Toronto",
+
+        "message1": "The Canadian International Autoshow puts forth a great display of mech muscle and automotive perfection.",
+        "message2": "Afterward, visit around the Toronto.",
+        "message3": "Overnight stay at Toronto.",
+        "img": "/tour-images/a261.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Vancouver",
+
+        "message1": "After breakfast in the morning, begin the country tour towards Vancouver.",
+        "message2": "Enjoy Hiking Trails, Snow Sports, Sea-to-Sky Highway.",
+        "message3": "Overnight stay at Vancouver.",
+        "img": "/tour-images/a262.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Victoria",
+
+        "message1": "After breakfast in the morning, begin the country tour towards Victoria.",
+        "message2": "Filled with museums, parks, nature trails accompanied by its mild climate.",
+        "message3": "Visit British Colombia Museum, the Butchart Gardens, and Chinatown.",
+        "img": "/tour-images/a263.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Montreal",
+
+        "message1": "After breakfast in the morning, begin the country tour towards Montreal.",
+        "message2": "Afterward, visit around the Montreal.",
+        "message3": "Overnight stay at Montreal.",
+        "img": "/tour-images/a264.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Quebec City",
+
+        "message1": "After breakfast in the morning, begin the country tour towards Quebec City.",
+        "message2": "Afterward, visit around the Quebec City.",
+        "message3": "Overnight stay at Quebec City.",
+        "img": "/tour-images/a265.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Budapest",
+    "city": "Hungary",
+    "address": "Lajos utca 48-66, H-1036 Budapest, Hungary.",
+    "distance": 500,
+    "price": 2450,
+    "duration": "7N/8D",
+    "hotel": "The Aquincum Hotel Budapest",
+    "flight": "Qatar Airways",
+    "maxGroupSize": 15,
+    "desc": "Budapest is home of art or culture and one of the best tourist destinations in Europe. Here you will witness one of the biggest parliament buildings of world, the oldest zoo, the largest music festivals, and tons of world heritage sites. Budapest is the city that will keep you entertained.",
+    "place": "Chain Bridge, Parliament Building, Heroes Square, Buda Castle, Szechenyi Spa Baths, Margaret Island, House of Terror, Faust Wine Cellars.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img36.jpg",
+    "photo1": "/tour-images/hotel301.jpg",
+    "photo2": "/tour-images/hotel302.jpg",
+    "photo3": "/tour-images/hotel303.jpg",
+    "photo4": "/tour-images/tour-img361.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival at Prague",
+
+        "message1": "Arrive at Prague and transfer to hotel.",
+        "message2": "Spend the day at leisure.",
+        "message3": "Dinner and overnight stay at Prague.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Exploring Prague",
+
+        "message1": "After breakfast, go for a a guided Prague city tour.",
+        "message2": "Visit the Prague Castle, the New Town and Wenceslas Square, Saint Vitus Cathedral, Vltava River, Charles Bridge, the Jewish Quarter and the Old Town among others. ",
+        "message3": "Dinner and overnight stay at Prague.",
+        "img": "/tour-images/a271.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Tour of Cesky Krumlov",
+
+        "message1": "After breakfast, check out and leave for Vienna via Cesky Krumlov.",
+        "message2": "Take a tour through the formal gardens and courtyards of Cesky Krumlov Castle, before proceeding to the town.",
+        "message3": "Proceed to Vienna for dinner and overnight stay.",
+        "img": "/tour-images/a272.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "City tour of Vienna",
+
+        "message1": "After breakfast, begin city tour of Vienna.",
+        "message2": "Visit the magnificent buildings along the Ringstrasse, such as the MAK, the State Opera House, the Museum of Fine Arts and the Natural History Museum and the Parliament among others.",
+        "message3": "Later, visit the Schonbrunn Palace.",
+        "img": "/tour-images/a273.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Visit to Bratislava",
+
+        "message1": "After breakfast, leave for Budapest.",
+        "message2": "Stop at Bratislava for sightseeing.",
+        "message3": "Dinner and overnight stay at Budapest.",
+        "img": "/tour-images/a274.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "City tour of Budapest",
+
+        "message1": "Visit the Chain bridge, the Parliament, the Castle, the Firshermen bastion and Matthias church.",
+        "message2": "Drive to the Gellert Hill and Central Market Hall followed by photo stop at Heroes Square.",
+        "message3": "Later, take a cruise along the Danube River. ",
+        "img": "/tour-images/a275.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Lake Bled and exploring Ljubljana",
+
+        "message1": "Take a trip across the lake in the traditional Pletna boat.",
+        "message2": "Proceed to Ljubljana and embark on a city tour.",
+        "message3": "Visit spots including the National Museum of Slovenia and the Museum of Modern Art.",
+        "img": "/tour-images/a276.jpg"
+      },
+      {
+        "day": "Day 8",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out and transfer to Airport for return journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Manali",
+    "city": "India",
+    "address": "Postmaster, Manali S.O , Kullu, Himachal Pradesh, India.",
+    "distance": 300,
+    "price": 1050,
+    "duration": "5N/6D",
+    "hotel": "Treebo Trend Hotel Dev",
+    "flight": "Vistara",
+    "maxGroupSize": 20,
+    "desc": "Manali is one of the best hill stations not only in India but in the entire world. Located at a height of 2050 meters, the weather and mountains of Manali always fascinate the tourist, especially romantic couples. Manali is a heaven for adventure lovers, here you can do lots of things like skiing, trekking, camping, paragliding, rafting, riding, biking and many more.",
+    "place": "Hadimba Devi Temple, Old Manali, Museum of Himachal Culture & Folk Art, Nehru Kund, Rohtang La, Jogini Falls, Jagatsukh, Manu temple, Himalayan Nyinmapa Buddhist Monastery, Nicholas Roerich Art Gallery.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img37.jpg",
+    "photo1": "/tour-images/hotel311.jpg",
+    "photo2": "/tour-images/hotel312.jpg",
+    "photo3": "/tour-images/hotel313.jpg",
+    "photo4": "/tour-images/tour-img371.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Chandigarh & Transfer to Shimla",
+
+        "message1": "On arrival Delhi Airport, a representative will meet and assist with transfer to Shimla.",
+        "message2": "En-route, visit the Timber Trail Heights.",
+        "message3": "Check-in to hotel and relax before dinner at hotel.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Excursion to Kufri",
+
+        "message1": "After breakfast, go for sightseeing around Shimla and visit Kufri.",
+        "message2": "In the evening take a stroll around the famous shopping place of Shimla town, The Mall and the Ridge.",
+        "message3": "Return to hotel in time for dinner and overnight stay in the hotel.",
+        "img": "/tour-images/a281.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Transfer to Manali",
+
+        "message1": "After breakfast, check out from the hotel and leave for Manali.",
+        "message2": "En-route visit Kullu Valley, Kullu shawl industry and Vaishno Devi Temple.",
+        "message3": "Reach Manali by the evening and check-in to the hotel.",
+        "img": "/tour-images/a282.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Excursion to Solang Valley",
+
+        "message1": "After breakfast, proceed towards Solang Valley.",
+        "message2": "Enjoy activites such as skiing, paragliding and other adventurous activities (cost not included).",
+        "message3": "Dinner and overnight stay at Manali.",
+        "img": "/tour-images/a283.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Manali Sightseeing",
+
+        "message1": "After breakfast, proceed to a city tour of Manali.",
+        "message2": "Tour includes visits to Hadimba Devi Temple, Hot Sulphur Water springs, Tibetan-Monastery and Club House among others.",
+        "message3": "In the evening, explore the mall road of Manali.",
+        "img": "/tour-images/a284.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast at hotel, check-out and drive to Delhi.",
+        "message2": "In evening, arrive in Delhi and proceed to drop at airpoirt for return journey.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Norway",
+    "city": "Europe",
+    "address": "Norway, Europe.",
+    "distance": 400,
+    "price": 2730,
+    "duration": "5N/6D",
+    "hotel": "Hotel Ullensvang",
+    "flight": "Ethiopian Airlines",
+    "maxGroupSize": 12,
+    "desc": "Norway is one of the most beautiful and happiest countries on earth. It has something to offer to every kind of traveler such as the northern lights, the midnight sun, and one of the best places to glimpse the Aurora Borealis is the Lofoten Islands, in northwestern Norway.",
+    "place": "Trondheim, Sognefjord, Waterfalls valley, North Cape, Lofoten Island, Bergen, Fantoft Stave Church.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img38.jpg",
+    "photo1": "/tour-images/hotel321.jpg",
+    "photo2": "/tour-images/hotel322.jpg",
+    "photo3": "/tour-images/hotel323.jpg",
+    "photo4": "/tour-images/tour-img381.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Europe",
+
+        "message1": "Welcome to Norway.",
+        "message2": "Upon arrival in Europe, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Europe.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Exploring Budapest",
+
+        "message1": "Arrive at Budapest and transfer to the hotel.",
+        "message2": "Embark on a guided tour of the inner Pest side and take the Segway to explore the city.",
+        "message3": "Overnight stay at Budapest.",
+        "img": "/tour-images/a291.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Travel to Vienna",
+
+        "message1": "Transfer to hotel and relax.",
+        "message2": "In the evening, experience the Fiaker Horse Carriage Tour.",
+        "message3": "Overnight stay at Vienna.",
+        "img": "/tour-images/a292.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Cruise on the River Vltava in Prague",
+
+        "message1": "Transfer to Prague and check-in to hotel.",
+        "message2": "Go for a cruise through River Vltava with a view of spots such as the Prague Castle, Charles Bridge, the National Theatre, etc.",
+        "message3": "Overnight stay at Prague.",
+        "img": "/tour-images/a293.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Sound of Music Tour",
+
+        "message1": "Take a Sound of Music tour in Salzburg and visit the outer city areas.",
+        "message2": "Later, tour the baroque Mirabell Gardens filled with the finest statues and reflecting pools.",
+        "message3": "Overnight stay at Salzburg.",
+        "img": "/tour-images/a294.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast at hotel, check-out and drive to Delhi.",
+        "message2": "In evening, proceed to drop at airpoirt for return journey.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Istanbul",
+    "city": "Turkey",
+    "address": "Unalan Mahallesi Libadiye Caddesi No 82F Blok G, Uskudar, 34700 Istanbul, Turkey.",
+    "distance": 350,
+    "price": 2530,
+    "duration": "8N/9D",
+    "hotel": "Centro Westside Istanbul",
+    "flight": "Kuwait Airways",
+    "maxGroupSize": 10,
+    "desc": "Istanbul is the largest city in Turkey and one of the largest in the world. Impressive architecture, historic sites, dining, shopping, nightlife and exotic atmosphere all make Istanbul one of the best tourist destinations in the world. Istanbul is the only city in the world that straddles two continents: Asia and Europe.",
+    "place": "Aya Sofya, Topkapi Palace, Blue Mosque, Basilica Cistern, Hippodrome, Grand Bazaar, Spice Bazaar.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img39.jpg",
+    "photo1": "/tour-images/hotel331.jpg",
+    "photo2": "/tour-images/hotel332.jpg",
+    "photo3": "/tour-images/hotel333.jpg",
+    "photo4": "/tour-images/tour-img391.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Istanbul",
+
+        "message1": "Arrive at Istanbul airport and transfer to the hotel.",
+        "message2": "Rest of the day at your leisure.",
+        "message3": "Overnight stay in Istanbul.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Istanbul Sightseeing",
+
+        "message1": "After breakfast, explore old Istanbul and its many attractions like Hagia Sophia, Blue Mosque and Basilica Cistern.",
+        "message2": "Visit the gardens near the Topkapi Palace to stroll and relax after lunch.",
+        "message3": "Later, head to Topkapi Palace to discover the lovely jewels on display.",
+        "img": "/tour-images/a301.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Istanbul Sightseeing & Bosphorus Cruise",
+
+        "message1": "Explore Taksim square with many of its malls.",
+        "message2": "Later, after a fancy lunch at the Dolbamache Palace, end the evening with a Bosphorus cruise.",
+        "message3": "Dinner can be at the high-end hotels on the other side of the Bosphorus or some that are in the middle of the river.",
+        "img": "/tour-images/a302.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Leisure Day in Istanbul",
+
+        "message1": "Explore the remaining sights and shop to your heart’s content.",
+        "message2": "You can also visit Princes Island.",
+        "message3": "The evening is free to shop or enjoy the city.",
+        "img": "/tour-images/a303.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Transfer from Istanbul to Cappadocia",
+
+        "message1": "Catch the 2:45 flight to Cappadocia.",
+        "message2": "You will be received at airport and taken to the hotel.",
+        "message3": "In the evening, enjoy the Turkish night with dinner, dances and drinks.",
+        "img": "/tour-images/a304.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Hot Air Balloon Ride in Cappadocia",
+
+        "message1": "Early morning hot air balloon ride with a champagne breakfast.",
+        "message2": "Later, choose to relax or take the Red/Green tour to explore the wonders of Cappadocia.",
+        "message3": "If you don’t take the red/green tour you can take the evening Rose Valley trek.",
+        "img": "/tour-images/a305.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Overnight Bus from Cappadocia to Pamukkale",
+
+        "message1": "Overnight bus to Pamukkale.",
+        "message2": "Take the red or green tour and later take the overnight bus to Pamukkale.",
+        "message3": "",
+        "img": "/tour-images/a306.jpg"
+      },
+      {
+        "day": "Day 8",
+        "atitle": "Pamukkale Sightseeing",
+
+        "message1": "Explore the lovely travertine of Pamukkale, as well as the ancient city of Hierapolis.",
+        "message2": "Overnight stay in Pamukkale.",
+        "message3": "",
+        "img": "/tour-images/a307.jpg"
+      },
+      {
+        "day": "Day 9",
+        "atitle": "Departure Flight from Pamukkale",
+
+        "message1": "Take the flight to Istanbul and from there to home city.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Valley of Flower Trek",
+    "city": "Uttarakhand",
+    "address": "Valley of Flower Trek, Uttarakhand.",
+    "distance": 300,
+    "price": 1730,
+    "duration": "5N/6D",
+    "hotel": "Blue Moon Hotel",
+    "flight": "IndiGo",
+    "maxGroupSize": 10,
+    "desc": "Valley of Flower Trek is located in the state of Uttarakhand at the height of the West Himalayas. This beautiful place was discovered by a British traveler named Frank Smith in the year 1931. The Valley of Flower Trek is surrounded by the mighty Himalayas peaks.",
+    "place": "Gorson Bugyal, Malari, Nanda Devi National Park, Govindghat, Mana Village.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img40.jpg",
+    "photo1": "/tour-images/hotel341.jpg",
+    "photo2": "/tour-images/hotel342.jpg",
+    "photo3": "/tour-images/hotel343.jpg",
+    "photo4": "/tour-images/tour-img401.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Uttarakhand",
+
+        "message1": "Welcome to Valley of Flower Trek.",
+        "message2": "Upon arrival in Uttarakhand, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Uttarakhand.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Arrival in Shivpuri Camp",
+
+        "message1": "At 12.00 PM there will activities such as rock climbing or trekking.",
+        "message2": "After lunch, you can play beach volleyball.",
+        "message3": "At 9.00 PM there will be a campfire and snacks - pakoda, peanut masala, and salad (limited) will be served.",
+        "img": "/tour-images/a311.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Rafting Day",
+
+        "message1": "After breakfast, start rafting from Shivpuri to Rishikesh.",
+        "message2": "We hit some of the most exciting rapids on the Ganga i.e. Return to Sender, Roller Coaster, Golf Course & Clubhouse.",
+        "message3": "We hit Initiation, Double Trouble, and Hilton.",
+        "img": "/tour-images/a312.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": " Haridwar to Rishikesh",
+
+        "message1": "On arrival in Haridwar, transfer to Rishikesh.",
+        "message2": "On arrival in Rishikesh, check in to Yoga Niketan.",
+        "message3": "In the afternoon, briefing of day routine.",
+        "img": "/tour-images/a313.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Day for Yoga & Meditation",
+
+        "message1": "Morning yoga from 07:00 to 08:00 AM.",
+        "message2": "Spend some time in the library from 09:00 to 11:00 AM.",
+        "message3": "From 08:15 to 09:00 PM there will be musical Holy Hymns.",
+        "img": "/tour-images/a314.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your onward journey back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Southern Alps",
+    "city": "New Zealand",
+    "address": "The South Island of New Zealand.",
+    "distance": 500,
+    "price": 2430,
+    "duration": "5N/6D",
+    "hotel": "Mövenpick Hotel Wellington",
+    "flight": "Emirates",
+    "maxGroupSize": 10,
+    "desc": "The Southern Alps is the Highest, longest and most glaciated chain of mountains in New Zealand. The Southern Alps covered almost 60% of South Island including 16 points and all of them exceed more than 3,000 meters in height.",
+    "place": "Aoraki Mount Cook National Park Visitor Centre, Ski the Tasman, Red Trans Track, Governors Bus Walk, Lake District Museum, Milford Road.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img41.jpg",
+    "photo1": "/tour-images/hotel351.jpg",
+    "photo2": "/tour-images/hotel352.jpg",
+    "photo3": "/tour-images/hotel353.jpg",
+    "photo4": "/tour-images/tour-img411.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrive at Auckland",
+
+        "message1": "Arrive at the airport, where you will meet our representative.",
+        "message2": "You will be private to your hotel from the airport.",
+        "message3": "Overnight stay in Auckland.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Auckland – Rotorua",
+
+        "message1": "After breakfast, check out from the hotel and head to Rotorua.",
+        "message2": "Enjoy a silent boat ride through this Glow worm Grotto glides quietly beneath the light of thousands of glow worms sticking to the cave ceiling.",
+        "message3": "Once at Rotorua, check in to the hotel.",
+        "img": "/tour-images/a211.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Rotorua – Queenstown",
+
+        "message1": "In the morning after breakfast, check out and head to Rotorua airport.",
+        "message2": "Fly to Queenstown, where on arrival you will be picked up and transferred to your hotel.",
+        "message3": "The rest of the day is at leisure.",
+        "img": "/tour-images/a212.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Queenstown - Milford Soun Cruise",
+
+        "message1": "After breakfast, head to Milford.",
+        "message2": "During our Milford Sound scenic cruises, you'll marvel at Mitre Peak and feel the spray of Fairy and Sterling waterfalls on your face as you take in the Fiordland scenery.",
+        "message3": "In the evening return back to Queenstown.",
+        "img": "/tour-images/a213.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Skydiving & More in Queenstown",
+
+        "message1": "In the morning after breakfast, buckle up to try your hand at an exhilarating skydiving experience.",
+        "message2": "Experience zero gravity and free fall as you hurtle down from thousands of feet in the air.",
+        "message3": "Overnight stay at Queenstown.",
+        "img": "/tour-images/a214.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your onward journey back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Srinagar",
+    "city": "India",
+    "address": "Postmaster, Srinagar G.P.O., Srinagar, Jammu and Kashmir, India.",
+    "distance": 400,
+    "price": 8500,
+    "duration": "4N/5D",
+    "hotel": "Spring Hills",
+    "flight": "SpiceJet",
+    "maxGroupSize": 10,
+    "desc": "Srinagar is the largest city and the capital of the Indian state of Jammu and Kashmir. The place is also called ‘Switzerland of India’. It lies in the Kashmir Valley on the banks of the Jhelum River.",
+    "place": "Dal Lake, Bonafide Multi Brand, Pari Mahal, Indira Gandhi Memorial Tulip Garden, Hari Parbat, Shankaracharya Temple, Nigeen Lake, SPS Museum, Pathar Masjid.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img42.jpg",
+    "photo1": "/tour-images/hotel361.jpg",
+    "photo2": "/tour-images/hotel362.jpg",
+    "photo3": "/tour-images/hotel363.jpg",
+    "photo4": "/tour-images/tour-img421.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in india",
+
+        "message1": "Welcome to Agra, India.",
+        "message2": "Upon arrival in india, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in india.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Srinagar to Gulmarg",
+
+        "message1": "After breakfast in the morning, begin the country tour towards Gulmarg.",
+        "message2": "Enroute, enjoy the view from Tangmarg to Gulmarg.",
+        "message3": "Enjoy the scenic view of the valley on a Cable Car known as Gondola or a pony ride.",
+        "img": "/tour-images/a181.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Gulmarg to Pahalgam",
+
+        "message1": "After breakfast, move towards Pahalgam.",
+        "message2": "Visit Awantipora Temple and Mattan Temple.",
+        "message3": "Relax and spend some time at Lidder River.",
+        "img": "/tour-images/a182.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Pahalgam to Srinagar",
+
+        "message1": "After breakfast, feel free to stroll around and enjoy the beauty of Pahalgam.",
+        "message2": "Leave in time from Pahalgam to Srinagar which will take about 2 hours to reach.",
+        "message3": "Spend the evening at leisure to explore the Srinagar city.",
+        "img": "/tour-images/a183.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Maldives",
+    "city": "Maldives",
+    "address": "The north-central Indian Ocean.",
+    "distance": 400,
+    "price": 3620,
+    "duration": "5N/6D",
+    "hotel": "Waldorf Astoria Maldives Ithaafushi",
+    "flight": "British Airways",
+    "maxGroupSize": 10,
+    "desc": "Maldives is a South Asian Island Country. It is one of the most popular tourist attractions in the world or you can say paradise on earth. The interesting thing about the Maldives is that the first underwater cabinet meeting was held here. The actual beauty of this place is underwater with colorful coral reefs, exotic fishes and vibrant marine life.",
+    "place": "Banana reef, Island hopping, Water sport, Sun Island, Alimatha Island, HP reef, Artificial beaches, Biyadhoo Island, Ithaa Undersea Dining.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img43.jpg",
+    "photo1": "/tour-images/hotel371.jpg",
+    "photo2": "/tour-images/hotel372.jpg",
+    "photo3": "/tour-images/hotel373.jpg",
+    "photo4": "/tour-images/tour-img431.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Maldives",
+
+        "message1": "Welcome to Maldives.",
+        "message2": "Upon arrival in Maldives, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Maldives.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Malé Atoll – For Urban Vibes",
+
+        "message1": "The Grand Friday Mosque",
+        "message2": "Scuba diving, and snorkeling, Male Fish Market.",
+        "message3": "Malé's National Museum, Tsunami Monument, Dive Club Maldives, Underwater Scooters.",
+        "img": "/tour-images/a321.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Sun Island – For Sparkling Beaches",
+
+        "message1": "Diving, windsurfing and snorkeling.",
+        "message2": "relaxation at sauna and spa, Island Divers.",
+        "message3": "Best places to stay: Sun Island Resort & Spa, Holiday Island Resort & Spa, LUX* South Ari Atoll etc.",
+        "img": "/tour-images/a322.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Banana Reef – For A Great Diving Experience",
+
+        "message1": "Underwater activities like Scuba, snorkeling.",
+        "message2": "Jet skiing in the reef; places like Maldive Victory, Hulhumal-, Alimatha Island, Biyadhoo Island, Manta Point.",
+        "message3": "Best places to stay: Coco Bodhu Hithi, Paradise Island Resort & Spa, Adaaran Prestige Ocean Villas are the luxury accommodations that will keep you happy and comfy.",
+        "img": "/tour-images/a323.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Utheemu Ganduvaru",
+
+        "message1": "The home of Sultan Mohamed, Ancient Cemetery, New Mosque, Beach North shore etc.",
+        "message2": "Best places to stay in Utheemu Ganduvaru: Amra Palace Laamu, J Resort Alidhoo, JA Manafaru, The Barefoot Eco Hotel.",
+        "message3": "It is a small island that resembles a small green jellyfish. ",
+        "img": "/tour-images/a324.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mauritius",
+    "city": "Mauritius",
+    "address": "Sterling House Lislet Geoffroy Street Port Louis Republic of Mauritius.",
+    "distance": 500,
+    "price": 2720,
+    "duration": "4N/5D",
+    "hotel": "JW Marriott Mauritius Resort",
+    "flight": "Lufthansa",
+    "maxGroupSize": 15,
+    "desc": "A beautiful island founded by Arab’s in the 10th century, Mauritius is one of the best destinations for family and honeymoon couples. Mauritius is known for its beautiful white beaches and islands. It is divided into 9 different districts and each of them is very picturesque and wonderful to stay.",
+    "place": "Port Louis, Grand Baie, Black River Gorges National Park, Flic En Flac Beach, Rodrigues, Blue Bay.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img44.jpg",
+    "photo1": "/tour-images/hotel381.jpg",
+    "photo2": "/tour-images/hotel382.jpg",
+    "photo3": "/tour-images/hotel383.jpg",
+    "photo4": "/tour-images/tour-img441.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Mauritius",
+
+        "message1": "Transfer to the hotel and check-in.",
+        "message2": "Spend the rest of the day on your own to explore the tropical paradise.",
+        "message3": "Dinner & overnight stay at the hotel.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "North Mauritius Tour",
+
+        "message1": "Visit the famous Pamplemousses Gardens and Port Louis.",
+        "message2": "Thereafter, visit ‘Le Caudan’ waterfront with a shopping complex and souvenir shop in Port Louis.",
+        "message3": "In the afternoon, enjoy an Indian lunch (on your own) at a local Indian restaurant.",
+        "img": "/tour-images/a331.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "South Mauritius Tour",
+
+        "message1": "Proceed to the town Curepipe for a guided shopping at some exclusive shops.",
+        "message2": "Drive to the spectacular crater of “Trou aux Cerfs” in the town itself.",
+        "message3": "Enjoy the “Green Paradise” of Mauritius and Casela Bird Park.",
+        "img": "/tour-images/a332.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Ile Aux Cerfs Island Tour",
+
+        "message1": "After breakfast, depart to the eastern coast for a full-day excursion to the Island Resort - IIle Aux Cerfs.",
+        "message2": "Your journey begins from Trou D’eau Douce, with a boat ride off the east coast of this Paradise Island.",
+        "message3": "Experience the beautiful undersea corals and magnificent marine life.",
+        "img": "/tour-images/a333.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "George Town, penang",
+    "city": "Malaysia",
+    "address": "50100 Kuala Lumpur, Malaysia.",
+    "distance": 400,
+    "price": 2320,
+    "duration": "6N/7D",
+    "hotel": "Grand Hyatt Kuala Lumpur",
+    "flight": "FlexFlight",
+    "maxGroupSize": 10,
+    "desc": "Malaysia is a wonderful travel destination for those who love sandy beaches, HALAL food, rich culture & history, religious sites, shopping malls and beautiful Islands. Despite being a small country Malaysia has numerous places and things that you can reconnoiter and make your trip a memorable one.",
+    "place": "Federal Territory of Kuala Lumpur, Langkawi, Malacca, Kota Kinabalu, Cameron Highlands, Perhentian Islands, Kuching, Ipoh.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img46.jpg",
+    "photo1": "/tour-images/hotel401.jpg",
+    "photo2": "/tour-images/hotel402.jpg",
+    "photo3": "/tour-images/hotel403.jpg",
+    "photo4": "/tour-images/tour-img461.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Malaysia",
+
+        "message1": "Welcome to Langkawi",
+        "message2": "On arrival at Langkawi Airport, you will be picked up and transfer to the hotel.",
+        "message3": "Spend the rest of the day at leisure.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Langkawi Island Tour",
+
+        "message1": "After breakfast, proceed for a half-day tour of Langkawi.",
+        "message2": "Visit the Tomb of Mahsuri, Perdana Gallery, Eagle Square and Batik Village.",
+        "message3": "Overnight stay at Langkawi.",
+        "img": "/tour-images/a341.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Langkawi to Penang",
+
+        "message1": "After breakfast, proceed to Langkawi ferry terminal to transfer to Penang.",
+        "message2": "On arrival at the Penang ferry terminal, you will be pick up and transfer to the hotel.",
+        "message3": "Overnight stay at Penang.",
+        "img": "/tour-images/a342.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Penang Island Tour",
+
+        "message1": "After breakfast, proceed for a half-day tour of Penang.",
+        "message2": "Visit Khoo Kongsi and Royal Selangor Pewter.",
+        "message3": "Visit Tean Ean Local Product for spices and confectioneries and Wat Chayamankalaram Buddhist Temple.",
+        "img": "/tour-images/a343.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Penang to Kuala Lumpur",
+
+        "message1": "After breakfast, proceed to Sungai Nibong Bus Station to transfer to Kuala Lumpur.",
+        "message2": "On arrival at Old Ktm Bus Station, you will be picked up and transfer to the hotel.",
+        "message3": "Overnight stay at Kuala Lumpur.",
+        "img": "/tour-images/a344.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Kuala Lumpur City Tour",
+
+        "message1": "After breakfast, proceed for the city tour of Kuala Lumpur.",
+        "message2": "Drive past National Museum, China Town, and Lake Garden.",
+        "message3": "Photo stop at National Monument, Sultan Abdul Samad Building, King’s Palace, Independence Square, Twin Tower, and National Mosque.",
+        "img": "/tour-images/a345.jpg"
+      },
+      {
+        "day": "Day 7",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport for your onward journey back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Dubai",
+    "city": "Dubai",
+    "address": "Downtown Dubai.",
+    "distance": 350,
+    "price": 1920,
+    "duration": "4N/5D",
+    "hotel": "Hilton Dubai Jumeirah",
+    "flight": "Swiss International Air Lines",
+    "maxGroupSize": 15,
+    "desc": "Dubai is a stopover destination for tourists who fly in and out of UAE. It is the perfect family holiday destination in the world. This city is famous for its beautiful shiny skyscrapers like Burj Khalia, shopping malls like Dubai Mall, luxurious staying options, sandy beaches, adventurous sports and delicious food.",
+    "place": "Burj Khalifa, Burj Al Arab, Dubai Aquarium & Underwater Zoo, Dubai Miracle Garden, The Dubai Mall, The Dubai Fountain, Ski Dubai, Wild Wadi Waterpark Dubai, Aquaventure Waterpark.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img45.jpg",
+    "photo1": "/tour-images/hotel391.jpg",
+    "photo2": "/tour-images/hotel392.jpg",
+    "photo3": "/tour-images/hotel393.jpg",
+    "photo4": "/tour-images/tour-img451.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Dubai",
+
+        "message1": "Welcome to Dubai",
+        "message2": "Upon arrival in Dubai, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Relax and spend the rest of the day at leisure.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Dubai City Tour & Dhow Cruise Creek",
+
+        "message1": "Half-day Dubai city tour.",
+        "message2": "Visit Bur Al Arab, Jumeirah Mosque,  Atlantis Hotel, Dubai Mall – a mall with the largest indoor ski park and snow world, Palm Island, Burj Khalifa.",
+        "message3": "In the evening, Dhow Cruise Creek – 120 minutes cruising near Burdubai and Deira creek area.",
+        "img": "/tour-images/a351.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Desert Safari",
+
+        "message1": "Proceed for Desert Safari.",
+        "message2": "The desert safari trip includes spending a few hour's time in a Bedouin-style tent, right in the middle of the desert.",
+        "message3": "Start your exciting desert journey in a 4 X 4 Land Cruiser that would take you on a dune-bashing ride.",
+        "img": "/tour-images/a352.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Visit Burj Khalifa",
+
+        "message1": "Visit Dubai's Burj Khalifa - the tallest of all the buildings in the world.",
+        "message2": "One of the major landmarks of the city, the interior of the Burj is as majestic as the steely exterior.",
+        "message3": "Take a look at the marvellous building from the inside by joining the Dubai Burj Khalifa tour.",
+        "img": "/tour-images/a353.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "You will be dropped at Dubai Airport for the onward journey back home.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Rovaniemi Lapland",
+    "city": "Finland",
+    "address": "Joulumaantie 1, 96930 Arctic Circle, Rovaniemi, Finland.",
+    "distance": 450,
+    "price": 2840,
+    "duration": "4N/5D",
+    "hotel": "Hotel Scandic Rukahovi",
+    "flight": "Qatar Airways",
+    "maxGroupSize": 10,
+    "desc": "The city is best known as the home of Santa Claus, located right astride the Arctic Circle at Santa Claus Village. It is one of the best travel destinations in the world. During early June to July, locals came out of their house to enjoy the beauty of polar nights. Tourists from all over the world visits it to witness the beauty of the Mid-Night sun.",
+    "place": "Santa Claus Village, SantaPark – The home cavern of Santa Claus, Ranua Zoo, Santa Claus Office, Pyha-Luosto National Park, Santa’s Post Office, Arktikum Museum, Bearhill Husky, Santa Claus Reindeer, Rovaniemi Chruch.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img47.jpg",
+    "photo1": "/tour-images/hotel411.jpg",
+    "photo2": "/tour-images/hotel412.jpg",
+    "photo3": "/tour-images/hotel413.jpg",
+    "photo4": "/tour-images/tour-img471.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Finland",
+
+        "message1": "Welcome to Rovaniemi Lapland.",
+        "message2": "Upon arrival in Finland, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Finland.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Old Rauma",
+
+        "message1": "The old section of the township is characterized by colorful, historical buildings and winding, cobblestone streets.",
+        "message2": "Many cafes and restaurants line the recently restored Market Square in the old town.",
+        "message3": "The area is well-known for its traditional bobbin lace making trade, and there is an annual Lace Week to celebrate this traditional local skill.",
+        "img": "/tour-images/a361.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Turku Castle",
+
+        "message1": " The impressive structure overlooks the Aura River and has become Turku’s most iconic building.",
+        "message2": "During the summer months, there are daily tours of the castle.",
+        "message3": "Today, Turku Castle is one of the most visited museums in Finland and renowned for its grandeur.",
+        "img": "/tour-images/a362.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Helsinki Cathedral",
+
+        "message1": "The capital city of Helsinki is home to a magnificent church: the Helsinki Cathedral.",
+        "message2": "Twelve statues of Jesus’ apostles stand guard on the roof outside the cathedral, which overlooks the city and its harbor.",
+        "message3": "After visiting, most tourists head over to Market Square, which is lined with various food stalls and restaurants featuring heated patios, making it the ideal place for a bite to eat.",
+        "img": "/tour-images/a363.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Keukenhof Park, Holland",
+    "city": "Netherland",
+    "address": "Stationsweg 166A, 2161 AM Lisse, Netherlands.",
+    "distance": 350,
+    "price": 2340,
+    "duration": "5N/6D",
+    "hotel": "The College Hotel Amsterdam",
+    "flight": "Air France",
+    "maxGroupSize": 12,
+    "desc": "Keukenhof Park is one of the world’s largest bulb Park, situated in Lisse, South Holland, Netherland. According to the official website of Keukenhof Park, approximately 7 million flower bulbs are planted annually in the park, which covers an area of 32 hectares.",
+    "place": "Kasteel Keukenhof, LAM museum, Museum Black Tulip, De Tulperij, Tulip Experience Amsterdam, Huys Dever, Linnaeushof, Duinrell, Nederlands Transport Museum.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img48.jpg",
+    "photo1": "/tour-images/hotel421.jpg",
+    "photo2": "/tour-images/hotel422.jpg",
+    "photo3": "/tour-images/hotel423.jpg",
+    "photo4": "/tour-images/tour-img481.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Netherland",
+
+        "message1": "Welcome to Keukenhof Park, Holland",
+        "message2": "Upon arrival in Netherland, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Netherland",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Amsterdam Sightseeing",
+
+        "message1": "After breakfast, visit Marken, Volendam, and Windmills.",
+        "message2": "Later, proceed for sightseeing of Amsterdam by Hop-on Hop-off tour.",
+        "message3": "Overnight stay in Amsterdam.",
+        "img": "/tour-images/a371.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Amsterdam to Paris",
+
+        "message1": "On arrival in Paris, transfer to the hotel and check-in.",
+        "message2": "Afterward, proceed for Paris hop-on hop-off tour.",
+        "message3": "In the evening, visit the Eiffel Tower.",
+        "img": "/tour-images/a372.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Evening Seine Cruise",
+
+        "message1": "After breakfast, spend the day at leisure.",
+        "message2": "In the evening, enjoy the Seine Cruise.",
+        "message3": "Overnight stay in Paris.",
+        "img": "/tour-images/a373.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Day at Leisure",
+
+        "message1": "After breakfast, spend the day at leisure.",
+        "message2": "You can enjoy a Disneyland trip or Versailles Garden tour (at your own expense).",
+        "message3": "Overnight stay in Paris.",
+        "img": "/tour-images/a374.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "After breakfast, check out from the hotel and transfer to the airport to board your return flight to India.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mount Fuji",
+    "city": "Japan",
+    "address": "Yamanashi and Shizuoka ken of central Honshu, Japan.",
+    "distance": 500,
+    "price": 2590,
+    "duration": "4N/5D",
+    "hotel": "Maruei",
+    "flight": "Vietjet Air",
+    "maxGroupSize": 12,
+    "desc": "Mount Fuji is a beautiful collection of the highest and most beautiful mountains in the world. You can easily compare this to a book full of poetries and each one has its own meaning and warmth. Mount Fuji is the highest peak in the Fuji volcanic chain in central Japan. Every year more than a million people visit this beautiful wonder of nature.",
+    "place": "Fuji 5th Station, Lake Kawaguchiko, Gotemba Premium Outlet, Oshino Hakkai Springs, Shiraito Falls, Lake Motosuko, Snow Town Yeti.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img49.jpg",
+    "photo1": "/tour-images/hotel431.jpg",
+    "photo2": "/tour-images/hotel432.jpg",
+    "photo3": "/tour-images/hotel433.jpg",
+    "photo4": "/tour-images/tour-img491.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Japan",
+
+        "message1": "Welcome to Mount Fuji.",
+        "message2": "Upon arrival in Japan, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Japan.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Tokyo – Essence Of Japan",
+
+        "message1": "Tokyo Disneyland, Tokyo Skytree, Tokyo DisneySea.",
+        "message2": "Spend an evening near the Tokyo Tower in Japan Shop in Odaiba.",
+        "message3": "Witness the grandeur of the Meiji Shrine.",
+        "img": "/tour-images/a381.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Nara – City Of Culture",
+
+        "message1": "Visit the Isuien Garden.",
+        "message2": "Befriend the deers at the Nara-koen Park.",
+        "message3": "Explore the Nara National Museum.",
+        "img": "/tour-images/a382.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": " Mt. Fuji – A Breathtaking Marvel",
+
+        "message1": "Go for skiing.",
+        "message2": "Visit the Arakurayama Sengen Park.",
+        "message3": "Enjoy the views of Mt. Fuji from the Subashiri 5th Station.",
+        "img": "/tour-images/a383.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bologna",
+    "city": "Italy",
+    "address": "Metropolitan City of Bologna, Italy.",
+    "distance": 450,
+    "price": 2810,
+    "duration": "5N/6D",
+    "hotel": "Best Western City Hotel",
+    "flight": "British Airways",
+    "maxGroupSize": 12,
+    "desc": "Bologna is the capital of the Emilia-Romagna region and the largest city in Northern Italy. Bologna is known for its tasty food, ancient architecture, medieval town and the old University of Europe. This city is also famous for inventing a meaty ragu sauce, used in two tasty regional dishes: tagliatelle and lasagna.",
+    "place": "Two Towers, Piazza Maggiore, Fountain of Neptune, Asinelli Tower, Saint Pettrounius Chruch, Portici, National Gallery.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img50.jpg",
+    "photo1": "/tour-images/hotel441.jpg",
+    "photo2": "/tour-images/hotel442.jpg",
+    "photo3": "/tour-images/hotel443.jpg",
+    "photo4": "/tour-images/tour-img501.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Italy",
+
+        "message1": "Welcome to Bologna.",
+        "message2": "Upon arrival in Italy, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Italy.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Exploring Rome",
+
+        "message1": "Spend the day sightseeing.",
+        "message2": "Visit the Colosseum, Roman Forum, Arch of Constantine, Pantheon, Trajan's Column and Palazzo Pamphili.",
+        "message3": "In the evening, go for a picture tour to iconic spots including the Spanish Steps and Trevi Fountain and visit Campo de' Fiori market.",
+        "img": "/tour-images/a391.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Sightseeing in Milan",
+
+        "message1": "Transfer to Milan in the morning.",
+        "message2": "Visit the famous Duomo di Milano, Arco della Pace, Castello Sforzesco and the Pinacoteca di Brera among other places.",
+        "message3": "In the evening, go to Naviglio and experience the local nightlife.",
+        "img": "/tour-images/a392.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Transfer to Pisa",
+
+        "message1": "Go sightseeing around the region.",
+        "message2": "Visit the Battistero di San Giovanni, Cathedral of Santa Maria Assunta, Leaning Tower of Pisa and Palazzo Blu Museum among others.",
+        "message3": "In the evening, watch the sunset at Ponte di Mezzo bridge.",
+        "img": "/tour-images/a393.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Visit to Marina di Pisa",
+
+        "message1": "Start the day with a trip to the beach town of Marina di Pisa.",
+        "message2": "Visit the Bocca D 'Arno before spend the day at leisure at the Bagno Gorgona beach.",
+        "message3": "In the evening, visit the National Museum of Pisa and go shopping at Borgo Stretto.",
+        "img": "/tour-images/a394.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "San Francisco",
+    "city": "California",
+    "address": "San Francisco, CA 94133, USA.",
+    "distance": 600,
+    "price": 3720,
+    "duration": "5N/6D",
+    "hotel": "Hotel Kabuki",
+    "flight": "American Airlines",
+    "maxGroupSize": 15,
+    "desc": "San Francisco is the cultural, commercial and financial center of Northern California. Having said that, the city is full of theatres, ballets, restaurants, Golden gates and lots more. This is one of the most preferred cities simply because of its urbanization. Visitors are often in awe when they come here and feel the goodness of the city vibes.",
+    "place": "The Golden Gate Bridge, Fisherman’s Wharf, Golden gate park, Alcatraz Island, Union Square, Ride San Francisco cable car system, Take a beautiful view of twin peaks.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img51.jpg",
+    "photo1": "/tour-images/hotel451.jpg",
+    "photo2": "/tour-images/hotel452.jpg",
+    "photo3": "/tour-images/hotel453.jpg",
+    "photo4": "/tour-images/tour-img511.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in California",
+
+        "message1": "Welcome to San Francisco.",
+        "message2": "Upon arrival in California, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in California.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Los Angeles",
+
+        "message1": "Los Angeles is the hub of all activities on the famous West Coast of the United States.",
+        "message2": "It is the second-largest city in the country, and one of the US's prime tourist cities.",
+        "message3": "Home to the world-famous Hollywood entertainment industry, Los Angeles has become a huge tourist destination.",
+        "img": "/tour-images/a401.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "San Diego",
+
+        "message1": "Home to serene white-sand beaches, San Diego is popularly called 'America's Finest City'.",
+        "message2": "San Diego is the second-largest city in California, while it ranks no. 8 in the list of the largest cities in the United States.",
+        "message3": "There are several museums, theme parks, historic parks and monuments which make this city a perfect destination for a pleasant holiday.",
+        "img": "/tour-images/a402.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "San Francisco",
+
+        "message1": "A trip to San Francisco is an absolute delight.",
+        "message2": "San Francisco is one of the most important cities on the West Coast and all of the United States.",
+        "message3": "The vibrant and energetic city holds a plethora of activities and attractions which will keep you busy throughout your time there.",
+        "img": "/tour-images/a403.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Santa Cruz",
+
+        "message1": "Santa Cruz is a great laidback destination.",
+        "message2": "The city is a counterculture center and known for its liberal beliefs.",
+        "message3": "Santa Cruz is home to all kinds of people from the University of California students to Silicon Valley techies to surfing enthusiasts. ",
+        "img": "/tour-images/a404.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cebu city",
+    "city": "Philippines",
+    "address": "The Central Visayas region of the Philippines.",
+    "distance": 500,
+    "price": 2520,
+    "duration": "4N/5D",
+    "hotel": "Quest Hotel and Conference Center Cebu",
+    "flight": "Singapore Airlines",
+    "maxGroupSize": 15,
+    "desc": "Cebu City, officially the City of Cebu, is a 1st class highly urbanized city in the Central Visayas region of the Philippines. It is the capital of the Cebu Province. According to the 2020 census, it has a population of 964,169 people,  making it the sixth-most populated city in the nation and the most populous in the Visayas.",
+    "place": "Magellan's Cross, Fort San Pedro, Tops Lookout, Cebu Taoist Temple, Cebu Metropolitan Cathedral, Ayala Center Cebu, Temple of Leah, Heritage of Cebu Monument.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img52.jpg",
+    "photo1": "/tour-images/hotel251.jpg",
+    "photo2": "/tour-images/hotel252.jpg",
+    "photo3": "/tour-images/hotel253.jpg",
+    "photo4": "/tour-images/tour-img521.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Philippines",
+
+        "message1": "Welcome to Cebu city.",
+        "message2": "Upon arrival in Philippines, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Philippines.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Angeles City",
+
+        "message1": "View Holy Rosary Church.",
+        "message2": "Celebrate Festivals in Angeles City.",
+        "message3": "visit Lily Hill.",
+        "img": "/tour-images/a411.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Cebu",
+
+        "message1": "Cebu is one of the most popular tourist destinations in the Philippines.",
+        "message2": " Divers enjoy exploring Cebu's coral gardens, swimming alongside turtles and white tip sharks.",
+        "message3": "It's the perfect place for anyone who wants to kick back and enjoy their time a beautiful island getaway.",
+        "img": "/tour-images/a412.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Manila",
+
+        "message1": "visit Intramuros.",
+        "message2": "shopping in Robinsons Place Mall.",
+        "message3": "Visit San Agustin Church.",
+        "img": "/tour-images/a413.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bizerte City",
+    "city": "Tunisia",
+    "address": "Administrative building-2060 La Goulette 3029 Tunisia.",
+    "distance": 600,
+    "price": 2720,
+    "duration": "4N/5D",
+    "hotel": "Andalucia Beach Hotel",
+    "flight": "Lufthansa",
+    "maxGroupSize": 12,
+    "desc": "Bizerte is the oldest city in Tunisia, the northernmost city in Africa. Bizerte lies along the Mediterranean coast. Bizerte is the least Tunisian, and the most French, city in Tunisia. Inexpensive to reach, Bizerte is one of the most beautiful holiday destinations.",
+    "place": "Rebaa Mosque, Dar El Kasba Bizerte, Medina of Bizerte, Bizerte Old Harbor, Vieux Port, Bizerte Bridge, Résidence Ain Meriem Bizerte, Menzel Bourguiba.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img53.jpg",
+    "photo1": "/tour-images/hotel131.jpg",
+    "photo2": "/tour-images/hotel132.jpg",
+    "photo3": "/tour-images/hotel133.jpg",
+    "photo4": "/tour-images/tour-img531.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Tunisia",
+
+        "message1": "Welcome to Bizerte City.",
+        "message2": "Upon arrival in Tunisia, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Tunisia.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Excursion to Mt. Titlis & Lucerne",
+
+        "message1": "Proceed to Engelberg town- a base cable car station of Mt.Titlis.",
+        "message2": "Titlis Rotair revolving gondola transports you to the mountain station.",
+        "message3": "The Ice Flyer chair lift will take you to the glacier park where all kinds of fun snow activities await.",
+        "img": "/tour-images/a421.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Excursion to Jungfrau/Interlaken",
+
+        "message1": "Visit the Jungfraujoch - Top of Europe.",
+        "message2": "Visit the Sphinx observation tower.",
+        "message3": "After the tour, proceed for an orientation tour of Interlaken.",
+        "img": "/tour-images/a422.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Zurich to Innsbruck",
+
+        "message1": "Take a boat trip through the Rhine Falls.",
+        "message2": "Pass through Vaduz, the capital city of the country of Liechtenstein.",
+        "message3": "Take a quick stop in Vaduz and explore the city.",
+        "img": "/tour-images/a423.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bizerte country",
+    "city": "Tunisia",
+    "address": "Administrative building-2060 La Goulette 3029 Tunisia.",
+    "distance": 600,
+    "price": 2720,
+    "duration": "4N/5D",
+    "hotel": "Andalucia Beach Hotel",
+    "flight": "Lufthansa",
+    "maxGroupSize": 10,
+    "desc": "Bizerte is the oldest city in Tunisia, the northernmost city in Africa. Bizerte lies along the Mediterranean coast. Bizerte is the least Tunisian, and the most French, city in Tunisia. Inexpensive to reach, Bizerte is one of the most beautiful holiday destinations.",
+    "place": "Rebaa Mosque, Dar El Kasba Bizerte, Medina of Bizerte, Bizerte Old Harbor, Vieux Port, Bizerte Bridge, Résidence Ain Meriem Bizerte, Menzel Bourguiba.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img53.jpg",
+    "photo1": "/tour-images/hotel131.jpg",
+    "photo2": "/tour-images/hotel132.jpg",
+    "photo3": "/tour-images/hotel133.jpg",
+    "photo4": "/tour-images/tour-img531.jpg",
+    "featured": true,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Tunisia",
+
+        "message1": "Welcome to Bizerte City.",
+        "message2": "Upon arrival in Tunisia, you will be picked up from the airport and transferred to a hotel.",
+        "message3": "Overnight in Tunisia.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Excursion to Mt. Titlis & Lucerne",
+
+        "message1": "Proceed to Engelberg town- a base cable car station of Mt.Titlis.",
+        "message2": "Titlis Rotair revolving gondola transports you to the mountain station.",
+        "message3": "The Ice Flyer chair lift will take you to the glacier park where all kinds of fun snow activities await.",
+        "img": "/tour-images/a421.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Excursion to Jungfrau/Interlaken",
+
+        "message1": "Visit the Jungfraujoch - Top of Europe.",
+        "message2": "Visit the Sphinx observation tower.",
+        "message3": "After the tour, proceed for an orientation tour of Interlaken.",
+        "img": "/tour-images/a422.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Zurich to Innsbruck",
+
+        "message1": "Take a boat trip through the Rhine Falls.",
+        "message2": "Pass through Vaduz, the capital city of the country of Liechtenstein.",
+        "message3": "Take a quick stop in Vaduz and explore the city.",
+        "img": "/tour-images/a423.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Departure",
+
+        "message1": "Check out from hotel and proceed to the Airport for onward journey.",
+        "message2": "",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Ladakh",
+    "city": "India",
+    "address": "Deputy Commissioner/CEO, LAHDC Leh, Near Pologround, Leh- Ladakh Jammu and Kashmir.",
+    "distance": 500,
+    "price": 1980,
+    "duration": "5N/6D",
+    "hotel": "The Grand Dragon Ladakh",
+    "flight": "IndiGo",
+    "maxGroupSize": 10,
+    "desc": "Ladakh covers about 45,000 square miles (117,000 square km) and contains the Ladakh Range, which is a southeastern extension of the Karakoram Range, and the upper Indus River valley. Ladakh is one of the highest regions of the world. Its natural features consist mainly of high plains and deep valleys.",
+    "place": "Shanti Stupa, Thiksey Monastery, Hemis Gompa, Leh Palace, Nubra Valley, Pangong Tso, Magnetic Hill, Gurudwara Pathar Sahib.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img54.jpg",
+    "photo1": "/tour-images/hotel461.jpg",
+    "photo2": "/tour-images/hotel462.jpg",
+    "photo3": "/tour-images/hotel463.jpg",
+    "photo4": "/tour-images/tour-img541.jpg",
+    "featured": false,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "atitle": "Arrival in Ladakh",
+        "message1": "Prepare for a delightful vacation amidst the grand mountains of Ladakh!",
+        "message2": "Upon arrival at Leh Airport, you will be greeted by our partner representative and transferred to your hotel in a private vehicle.",
+        "message3": "Overnight at Ladakh.",
+        "img": "/tour-images/airport.jpg"
+      },
+      {
+        "day": "Day 2",
+        "atitle": "Sham Valley Excursion",
+        "message1": "Wake up to the splendid views of Leh, indulge in a light breakfast and head out for an excursion to Sham Valley.",
+        "message2": "Make your first stop at Magnetic Hill to witness a gravity-defying optical illusion.",
+        "message3": "Lastly, visit the Hall of Fame and Shanti Stupa. Wrap up your day with transfers back to the hotel.",
+        "img": "/tour-images/a431.jpg"
+      },
+      {
+        "day": "Day 3",
+        "atitle": "Explore Nubra",
+        "message1": "Start your day with a delicious breakfast and get ready for a scenic drive from Leh to the Nubra Valley.",
+        "message2": "You can choose to indulge in adventure activities like Ziplining here at your own expense.",
+        "message3": "Wrap up the day with a visit to the coldest desert in India, Hunder Sand Dunes and enjoy a riding on double-humped camels at your own expense.",
+        "img": "/tour-images/a432.jpg"
+      },
+      {
+        "day": "Day 4",
+        "atitle": "Visit Pangong",
+        "message1": "Get set for a scenic drive to Pangong Lake today and experience its wondrous beauty!",
+        "message2": "After a hearty breakfast, you will be transferred to the lake.",
+        "message3": "Visit the popular spot where the movie ‘3 Idiots’ was shot or relish yummy food at any of the small restaurants around the banks.",
+        "img": "/tour-images/a433.jpg"
+      },
+      {
+        "day": "Day 5",
+        "atitle": "Return to Leh",
+        "message1": "Check-out from the camp and begin your journey back to Leh.",
+        "message2": "Make your way to Thiksey Monastery and enjoy an optional lunch.",
+        "message3": "Later, you can enjoy shopping at the Leh Bazaar or visit Leh Jokhang, Leh Mosque on foot.",
+        "img": "/tour-images/a434.jpg"
+      },
+      {
+        "day": "Day 6",
+        "atitle": "Say Goodbye",
+        "message1": "",
+        "message2": "Upon check-out from your hotel, you will be transferred to Leh Airport for your flight back home.",
+        "message3": "",
+        "img": "/tour-images/flight.jpg"
+      }
+    ]
+  }
+]

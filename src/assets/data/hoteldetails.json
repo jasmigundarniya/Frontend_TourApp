@@ -1,0 +1,639 @@
+[
+  {
+    "name": "Park Plaza London Waterloo",
+    "rentperday": "1500",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "London",
+    "description": "Park Plaza London Waterloo is ideally located just south of Westminster Bridge overlooking the River Thames with spectacular views across London. Within walking distance of London’s most famous attractions including the London Eye, Big Ben, Westminster Abbey, the Houses of Parliament, London Aquarium, National Theatre and the South Bank Centre, this city centre hotel provides the perfect base for you when travelling in London.",
+    "imageurls": [
+      "/tour-images/hotel11.jpg",
+      "/tour-images/hotel12.jpg",
+      "/tour-images/hotel13.jpg"
+    ]
+  },
+  {
+    "name": "Cotswold Lodge",
+    "rentperday": "2000",
+    "maxcount": 7,
+    "phonenumber": 9842503678,
+    "city": "Phuket",
+    "description": "Cotswold Lodge is an independent 4-star hotel located in a conservation area within walking distance from Oxford’s historic city centre. Visitors are assured of a warm welcome and a highly professional level of service, whether they are popping in for a coffee, meeting someone for lunch, staying at the hotel or hosting an event. The elegant Victorian building combines period features such as bay windows, high ceilings and open fireplaces with all the facilities required by today’s business and leisure travellers, including secure wireless broadband internet access. All our guest rooms offer a good level of comfort and privacy.",
+    "imageurls": [
+      "/tour-images/hotel41.jpg",
+      "/tour-images/hotel42.jpg",
+      "/tour-images/hotel43.jpg"
+    ]
+  },
+  {
+    "name": "BB Resort Villa and Spa",
+    "rentperday": "1300",
+    "maxcount": 13,
+    "phonenumber": 9842503678,
+    "city": "Bali",
+    "description": "Located in Nusa Penida, BB Resort Villa and Spa provides accommodation with an outdoor swimming pool, free private parking, a garden and a terrace. The property features a bar, as well as a restaurant serving Chinese cuisine. The accommodation features a 24-hour front desk, airport transfers, room service and free Wi-Fi throughout the property.",
+    "imageurls": [
+      "/tour-images/hotel51.jpg",
+      "/tour-images/hotel52.jpg",
+      "/tour-images/hotel53.jpg"
+    ]
+  },
+  {
+    "name": "Uno Hotel",
+    "rentperday": "1800",
+    "maxcount": 8,
+    "phonenumber": 9842503678,
+    "city": "Tokyo",
+    "description": "Numero Uno Tokyo features air-conditioned rooms with flat-screen TV in the Ota Ward district of Tokyo. The hotel with free WiFi. The property is non-smoking. At the hotel, every room comes with a balcony. Featuring a private bathroom with a shower and free toiletries, rooms at Numero Uno Tokyo also boast a city view. At the accommodation rooms come with bed linen and towels.",
+    "imageurls": [
+      "/tour-images/hotel61.jpg",
+      "/tour-images/hotel62.jpg",
+      "/tour-images/hotel63.jpg"
+    ]
+  },
+  {
+    "name": "The Tide Hotel",
+    "rentperday": "2100",
+    "maxcount": 8,
+    "phonenumber": 9842503678,
+    "city": "Paris",
+    "description": "The Tides Hotel Boracay is conveniently located in Paris. The prime address situates you at the epicenter of activities and convenience. We are skip and a hop away from Boracay Island's white beach. The Tides Hotel is your best choice among Station 1 hotels in Paris. The Tides Hotel Paris is the perfect backdrop to live out your best holiday! From intimate romantic escapes, group getaway, or corporate and team building experiences, we are here with the promise of indelible memories until your next visit.",
+    "imageurls": [
+      "/tour-images/hotel71.jpg",
+      "/tour-images/hotel72.jpg",
+      "/tour-images/hotel73.jpg"
+    ]
+  },
+  {
+    "name": "Western Valley Resorts",
+    "rentperday": "1600",
+    "maxcount": 8,
+    "phonenumber": 9842503678,
+    "city": "Tamil Nadu",
+    "description": "Western Valley is a beautiful luxury resort surrounded by serene nature in the queen of hills, Ooty. The resort is located in a rural and mountainous area, amidst tea plantations. The location is well-suited for sightseeing and getting around. The resort has numerous rooms that are unique in their own style.",
+    "imageurls": [
+      "/tour-images/hotel81.jpg",
+      "/tour-images/hotel82.jpg",
+      "/tour-images/hotel83.jpg"
+    ]
+  },
+  {
+    "name": "The Canal Garden Resort",
+    "rentperday": "1800",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Bangkok",
+    "description": "Situated in Patchaburi, The Canal Garden Resort offers outdoor adventurous activities, an outdoor pool and a restaurant. Guests can have a retreat at the spa and wellness centre. This property is less than 10.0 km from Chang Hua Man Royal Project. During the stay, guests can enjoy free WiFi. Local attractions include Phra Nakhon Khiri historical park and Kaeng Krachan National Park.",
+    "imageurls": [
+      "/tour-images/hotel11.jpg",
+      "/tour-images/hotel12.jpg",
+      "/tour-images/hotel13.jpg"
+    ]
+  },
+  {
+    "name": "Millennium Hilton Bangkok",
+    "rentperday": "2100",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Bangkok",
+    "description": "For luxurious indulgence in Bangkok, Millennium Hilton Bangkok is an ideal option. Alongside striking contemporary style throughout, the hotel boasts a refreshing infinity pool, indulgent spa, unforgettable panoramic city views, and multiple gastronomic dining options. Alongside sweeping city and river views, the modern en-suite rooms at Millennium Hilton Bangkok deliver a separate seating area, flat-screen TV, large work area, fluffy robes, and complimentary toiletries. The well-equipped fitness centre is open on a 24-hour basis, as is the concierge desk. Other features include a sun terrace, sauna, and free Wi-Fi.",
+    "imageurls": [
+      "/tour-images/hotel131.jpg",
+      "/tour-images/hotel132.jpg",
+      "/tour-images/hotel133.jpg"
+    ]
+  },
+  {
+    "name": "Oa Oa Lodge",
+    "rentperday": "1400",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "French Polynesia",
+    "description": "Take advantage of recreation opportunities such as an outdoor pool or take in the view from a terrace and a garden. Additional amenities at this hotel include complimentary wireless Internet access, concierge services, and a picnic area.Featured amenities include dry cleaning/laundry services, luggage storage, and laundry facilities. Free self parking is available onsite.",
+    "imageurls": [
+      "/tour-images/hotel91.jpg",
+      "/tour-images/hotel92.jpg",
+      "/tour-images/hotel93.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Inkaterra Machu Picchu",
+    "rentperday": "1700",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Peru",
+    "description": "In Aguas Calientes, Inkaterra Machu Picchu Pueblo Hotel is a colonial-style property that features massage sessions and an Andean sauna. The spacious rooms feature tile floors and sitting areas. Buffet breakfast and dinner are included in the rates.",
+    "imageurls": [
+      "/tour-images/hotel31.jpg",
+      "/tour-images/hotel32.jpg",
+      "/tour-images/hotel33.jpg"
+    ]
+  },
+  {
+    "name": "Shangri-La Hotel",
+    "rentperday": "1300",
+    "maxcount": 8,
+    "phonenumber": 9842503678,
+    "city": "Bangkok",
+    "description": "Shangri-La Hotel, Bangkok is a commanding landmark nestling on the banks of the Chao Phraya River, offering a strategic, luxury haven to call home in the city. The hotel has 802 elegant guest rooms and suites featuring a compelling blend of traditional Thai decor and modern comforts, each with alluring views of the gardens, city or river. Admiring the sunrise and fantastic view of the Chao Phraya River and rest by a stunning outdoor swimming pool set amid lush tropical greenery after breakfast.",
+    "imageurls": [
+      "/tour-images/hotel101.jpg",
+      "/tour-images/hotel102.jpg",
+      "/tour-images/hotel103.jpg"
+    ]
+  },
+  {
+    "name": "Cappadocia Inn",
+    "rentperday": "2100",
+    "maxcount": 8,
+    "phonenumber": 9842503678,
+    "city": "Turkey",
+    "description": "Cappadocia Inn Hotel is located at the centre of Göreme National Park with its beautiful architecture. It is in very close proximity to the centre, historical sites, post office and banks. It has 9 well-decorated cave rooms and 5 stone arched rooms. Each room has a different style and beautiful decorations. The hotel has a garden and a roof terrace with Cappadocia’s lunar landscape. Enjoy your tasty breakfast while you are watching hot air balloons on the terrace. And enjoy your dinner with traditional home-made foods while you are watching sunset from roof terrace.",
+    "imageurls": [
+      "/tour-images/hotel111.jpg",
+      "/tour-images/hotel112.jpg",
+      "/tour-images/hotel113.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Belfast",
+    "rentperday": "1900",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "France",
+    "description": "The 3-star Hotel Belfast is situated in an 18th century building in central Paris, near to the Place Charles de Gaulle, Arc de Triomphe, Palais des Congres de Paris and the Eiffel Tower. The hotel offers modern amenities such as air conditioning and double-glazing have been added for extra comfort, laundry service. The hotel's cosy, warmly decorated rooms are air-conditioned and double glazed for more comfort. They offer a modern en suite bathroom with bath.",
+    "imageurls": [
+      "/tour-images/hotel121.jpg",
+      "/tour-images/hotel122.jpg",
+      "/tour-images/hotel123.jpg"
+    ]
+  },
+  {
+    "name": "The St. Regis New York",
+    "rentperday": "1200",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "New York",
+    "description": "For the traveler seeking accommodations in the best hotels in New York City, Jet Luxury Resorts provides luxury suites at the St. Regis New York. With the classic elegance of New York City, this luxury hotel surrounds visitors with Five-Star & Five Diamond accommodations. In the heart of Manhattan, a refined atmosphere, luxury accommodations and gracious service rank The St. Regis New York among the finest hotels in New York City. Our luxury hotel suites feature Louis XVI-style furniture, deeply carved crown moldings, crystal chandeliers suspended from high ceilings, marble baths and silk wall coverings.",
+    "imageurls": [
+      "/tour-images/hotel141.jpg",
+      "/tour-images/hotel142.jpg",
+      "/tour-images/hotel143.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Rappen Rothenburg ob der Tauber",
+    "rentperday": "1800",
+    "maxcount": 13,
+    "phonenumber": 9842503678,
+    "city": "Germany",
+    "description": "Hotel Rappen Rothenburg ob der Tauber is a traditional family-run hotel set in a series of buildings dating back to the 17th century. The hotel is just a two-minute walk from the city walls and the Galgentor gate tower. The 104 en-suite guest rooms are divided into several different categories and cater for families, as well as disabled travellers and those with allergies. Each room is equipped with a flat-screen television, with oversize beds also available. Hotel Rappen Rothenburg ob der Tauber offers on-site parking and free Wi-Fi.",
+    "imageurls": [
+      "/tour-images/hotel151.jpg",
+      "/tour-images/hotel152.jpg",
+      "/tour-images/hotel153.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Camino Real Guanajuato",
+    "rentperday": "1500",
+    "maxcount": 18,
+    "phonenumber": 9842503678,
+    "city": "Mexico",
+    "description": "Enjoy recreation amenities such as a health club or take in the view from a garden. Additional features at this hotel include complimentary wireless Internet access, gift shops/newsstands, and wedding services.Grab a bite to eat at La Capilla, a family restaurant which features a bar/lounge, or stay in and take advantage of the 24-hour room service. Cooked-to-order breakfasts are available for a fee.Featured amenities include a business center, complimentary newspapers in the lobby, and dry cleaning/laundry services.",
+    "imageurls": [
+      "/tour-images/hotel161.jpg",
+      "/tour-images/hotel162.jpg",
+      "/tour-images/hotel163.jpg"
+    ]
+  },
+  {
+    "name": "Blanc Smith Residence",
+    "rentperday": "1300",
+    "maxcount": 11,
+    "phonenumber": 9842503678,
+    "city": "Cambodia",
+    "description": "Located in Siem Reap, a few steps from King's Road Angkor, Blanc Smith Residence has an outdoor swimming pool and a garden, as well as free WiFi. Popular points of interest nearby include Pub Street and Old Market. The property has a 24-hour front desk. The rooms feature air conditioning, a shower, free toiletries, a flat-screen TV with satellite channels and DVD-Player. Each room comes with a private bathroom and a hair dryer, and some accommodations at the hotel have a terrace.",
+    "imageurls": [
+      "/tour-images/hotel171.jpg",
+      "/tour-images/hotel172.jpg",
+      "/tour-images/hotel173.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Villa Argentina",
+    "rentperday": "1700",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Italy",
+    "description": "Take in the views from a terrace and make use of amenities such as complimentary wireless Internet access.Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 8 AM to 10 AM for a fee.Featured amenities include luggage storage, a library, and a safe deposit box at the front desk. Self parking (subject to charges) is available onsite.",
+    "imageurls": [
+      "/tour-images/hotel181.jpg",
+      "/tour-images/hotel182.jpg",
+      "/tour-images/hotel183.jpg"
+    ]
+  },
+  {
+    "name": "The Oberoi Amarvilas",
+    "rentperday": "1100",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "India",
+    "description": "Relax at the full-service spa, where you can enjoy massages, body treatments, and facials. If you're looking for recreational opportunities, you'll find an outdoor pool, a steam room, and a fitness center. This hotel also features wireless Internet access (surcharge), concierge services, and babysitting (surcharge).Enjoy international cuisine at Bellevue, one of the hotel's 2 restaurants, or stay in and take advantage of the 24-hour room service.",
+    "imageurls": [
+      "/tour-images/hotel191.jpg",
+      "/tour-images/hotel192.jpg",
+      "/tour-images/hotel193.jpg"
+    ]
+  },
+  {
+    "name": "JW Marriott Hotel Singapore South Beach",
+    "rentperday": "2200",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Singapore",
+    "description": "A stunning five-star hotel with two sky gardens, the JW Marriott Hotel Singapore South Beach is located in the arts and culture district, steps from the National Gallery of Singapore and Singapore Art Museum. The elegantly decorated guest rooms and suites each feature floor-to-ceiling windows. Standard amenities include 40-inch flat-screen televisions with premium channels, pillowtop beds with Frette linen, and marble bathrooms. Wi-Fi is complimentary, and room service is available 24-hours.",
+    "imageurls": [
+      "/tour-images/hotel201.jpg",
+      "/tour-images/hotel202.jpg",
+      "/tour-images/hotel203.jpg"
+    ]
+  },
+  {
+    "name": "Villa Anna",
+    "rentperday": "1650",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Greece",
+    "description": "Take in the views from a terrace and a garden and make use of amenities such as complimentary wireless Internet access. This hotel also features tour/ticket assistance and barbecue grills.Take advantage of the hotel's room service. Wrap up your day with a drink at the bar/lounge.",
+    "imageurls": [
+      "/tour-images/hotel211.jpg",
+      "/tour-images/hotel212.jpg",
+      "/tour-images/hotel213.jpg"
+    ]
+  },
+  {
+    "name": "Microtel Wellington",
+    "rentperday": "1500",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "New Zealand",
+    "description": "Satisfy your appetite at the hotel's coffee shop/cafe. Featured amenities include luggage storage, an elevator, and coffee/tea in a common area. Self parking is available onsite.Make yourself at home in one of the 80 air-conditioned rooms featuring flat-screen televisions. Complimentary wireless Internet access keeps you connected, and digital programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers.",
+    "imageurls": [
+      "/tour-images/hotel221.jpg",
+      "/tour-images/hotel222.jpg",
+      "/tour-images/hotel223.jpg"
+    ]
+  },
+  {
+    "name": "W Verbier",
+    "rentperday": "2000",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Switzerland",
+    "description": "The 5-star W Verbier is situated slope-side and centred around Place Blanche - the new center of town with a twist! W Verbier invites global jetsetters and local trendsetters alike to feel the adrenalin of Europe's most exciting slopes, startling vistas and glamorous nights. With 123 modern design Rooms & Suites, 3 Restaurants, 1 Café, 2 Bars and 1 Nightclub there is plenty to discover. Relax in the Pool and Spa area, work out in the Gym and enjoy the unique scenery.",
+    "imageurls": [
+      "/tour-images/hotel231.jpg",
+      "/tour-images/hotel232.jpg",
+      "/tour-images/hotel233.jpg"
+    ]
+  },
+  {
+    "name": "The Oasis By Don Carlos Resort",
+    "rentperday": "1200",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Spain",
+    "description": "You're sure to appreciate the recreational amenities, which include 2 outdoor swimming pools, outdoor tennis courts, and a sauna. Additional features at this hotel include complimentary wireless Internet access and concierge services.Enjoy a meal at the restaurant, or stay in and take advantage of the hotel's 24-hour room service. Relax with your favorite drink at the bar/lounge or the poolside bar.",
+    "imageurls": [
+      "/tour-images/hotel241.jpg",
+      "/tour-images/hotel242.jpg",
+      "/tour-images/hotel243.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Dorsett Shepherds Bush",
+    "rentperday": "1700",
+    "maxcount": 16,
+    "phonenumber": 9842503678,
+    "city": "London",
+    "description": "Hotel Dorsett Shepherds Bush is an elegant four-star hotel located in a listed building. This former cinema features an on-site spa and free Wi-Fi access throughout. Rooms at this hotel feature amenities such as a private bathroom, LCD TV, ironing facilities, hair dryer, coffee/tea maker, minibar, MP3 docking station, and desk. Guests will find a range of amenities that include a gym, business centre, express check-out, laundry facilities, designated smoking areas, and concierge services.",
+    "imageurls": [
+      "/tour-images/hotel251.jpg",
+      "/tour-images/hotel252.jpg",
+      "/tour-images/hotel253.jpg"
+    ]
+  },
+  {
+    "name": "Hotel La Rovere",
+    "rentperday": "1300",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Italy",
+    "description": "Set in a 19th-century building, Hotel La Rovere is a boutique hotel situated by the Tiber River and less than one mile from Vatican City. The elegant, updated rooms have air conditioning, soundproofing, flat-screen satellite televisions, desks, and minibars. The private bathrooms include showers and hairdryers. Selected upgrade rooms add features like beams on the ceilings, private terraces, and exposed stone walls. Multilingual staff provide assistance 24 hours a day at Hotel La Rovere’s front desk. There’s also luggage storage, a concierge, a lift, free Wi-Fi access, and a laundry service. The hotel offers a continental breakfast buffet.",
+    "imageurls": [
+      "/tour-images/hotel261.jpg",
+      "/tour-images/hotel262.jpg",
+      "/tour-images/hotel263.jpg"
+    ]
+  },
+  {
+    "name": "The Little America Hotel",
+    "rentperday": "1900",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Utah",
+    "description": "The 4-star The Little America Hotel offers luxurious downtown accommodation, within a mile of Temple Square, Salt Palace Convention Center, and Gallivan Center. This hotel boasts Salt Lake City’s largest indoor/outdoor pool, as well as spa services, a sauna and a whirlpool, and is 1.4 miles away from the Utah State Capitol. All rooms in the 17-story high-rise building come with a minimum of French Richelieu furniture, a 42” HDTV, free Wi-Fi, two telephone lines, a desk, room service and a safe.",
+    "imageurls": [
+      "/tour-images/hotel271.jpg",
+      "/tour-images/hotel272.jpg",
+      "/tour-images/hotel273.jpg"
+    ]
+  },
+  {
+    "name": "Brisbane Marriott Hotel",
+    "rentperday": "1600",
+    "maxcount": 16,
+    "phonenumber": 9842503678,
+    "city": "Australia",
+    "description": "Centrally located in Brisbane's Central Business District, high-rise Brisbane Marriott Hotel offers leisure and business facilities within an attractive setting next to Brisbane River. The contemporary rooms and suites feature one king or two double beds with river or cityscape views. A marble bathroom, television, and Wi-Fi access are standard. Executive level rooms include complimentary food.",
+    "imageurls": [
+      "/tour-images/hotel281.jpg",
+      "/tour-images/hotel282.jpg",
+      "/tour-images/hotel283.jpg"
+    ]
+  },
+  {
+    "name": "La cache du Domaine",
+    "rentperday": "1400",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Canada",
+    "description": "This hotel features complimentary wireless Internet access, concierge services, and wedding services.Satisfy your appetite with local and international cuisine at Le Greg, one of the hotel's 2 restaurants. Wrap up your day with a drink at the bar/lounge. Cooked-to-order breakfasts are served on weekdays from 7:00 AM to 10:30 AM and on weekends from 7:00 AM to noon for a fee.Featured amenities include a business center, express check-out, and dry cleaning/laundry services.",
+    "imageurls": [
+      "/tour-images/hotel291.jpg",
+      "/tour-images/hotel292.jpg",
+      "/tour-images/hotel293.jpg"
+    ]
+  },
+  {
+    "name": "The Aquincum Hotel Budapest",
+    "rentperday": "2100",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Hungary",
+    "description": "The Aquincum Hotel Budapest Budapest offers 4-star accommodation on the Buda side of the Danube River, just across from the green serenity of Margaret Island and within 5.6 kilometres of the Parliament Building, St Stephen’s Basilica and Castle Hill. The hotel has its own natural spa featuring two thermal pools and a full range of fitness, wellness and relaxation facilities. Standard rooms come with air conditioning, en-suite bathroom and hairdryer, TV with satellite channels and Pay TV, minibar, writing desk, laptop safe, free Wi-Fi, tea & coffee, free toiletries and two telephones.",
+    "imageurls": [
+      "/tour-images/hotel301.jpg",
+      "/tour-images/hotel302.jpg",
+      "/tour-images/hotel303.jpg"
+    ]
+  },
+  {
+    "name": "Treebo Trend Hotel Dev",
+    "rentperday": "1300",
+    "maxcount": 20,
+    "phonenumber": 9842503678,
+    "city": "India",
+    "description": "Treebo Trend Hotel Dev is located in the scenic town of Siyal, Manali. To those on a holiday, the hotel offers modern amenities and high sanitation standards which help to enhance their experience all at pocket-friendly prices. They rigorously attempt to maintain safety in and around the property by following the Treebo Hygiene Shield safety standards alongside providing amenities like free WiFi. The hotel enjoys proximity to important transit points such as the Manali Bus Depot at 600 m, while the Kangra Airport is at a distance of 213 km and Kalka Railway Station at 261 km.",
+    "imageurls": [
+      "/tour-images/hotel311.jpg",
+      "/tour-images/hotel312.jpg",
+      "/tour-images/hotel313.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Ullensvang",
+    "rentperday": "1900",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Europe",
+    "description": "Enjoy a day at the private beach or make a splash in one of the 2 indoor and 2 outdoor swimming pools. Additional features at this hotel include complimentary wireless Internet access, concierge services, and an arcade/game room.Satisfy your appetite with farm to table cuisine at Restaurant Ullensvang, a restaurant which features a bar/lounge and a garden view. Dining is also available at the coffee shop/cafe. A complimentary buffet breakfast is served daily from 7:00 AM to 10:00 AM.",
+    "imageurls": [
+      "/tour-images/hotel321.jpg",
+      "/tour-images/hotel322.jpg",
+      "/tour-images/hotel323.jpg"
+    ]
+  },
+  {
+    "name": "Centro Westside Istanbul",
+    "rentperday": "1500",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Turkey",
+    "description": "Centro WestSide is a stylish lifestyle hotel located in Istanbul's up-and-coming Gunesli district on the popular Basin Express Road. Ataturk International Airport is extremely close to the hotel, which with its stunning architectural design, is a striking new landmark in one of Europe's most exciting cities.",
+    "imageurls": [
+      "/tour-images/hotel331.jpg",
+      "/tour-images/hotel332.jpg",
+      "/tour-images/hotel333.jpg"
+    ]
+  },
+  {
+    "name": "Blue Moon Hotel",
+    "rentperday": "1800",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Uttarakhand",
+    "description": "Goroomgo Blue Bhimtal Resort is a reasonable option for travellers looking out for resort in Bhimtal. The Resort is in proximity to some popular tourist attractions and other places of interest in Bhimtal. Some of the tourist attractions include and Bhimeshwar Temple. From all the Budget hotels in Bhimtal, Goroomgo Blue Moon Bhimtal is very much popular among the tourists.",
+    "imageurls": [
+      "/tour-images/hotel341.jpg",
+      "/tour-images/hotel342.jpg",
+      "/tour-images/hotel343.jpg"
+    ]
+  },
+  {
+    "name": "Mövenpick Hotel Wellington",
+    "rentperday": "1600",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "New Zealand",
+    "description": "Mövenpick Hotel Wellington is a business class hotel on the edge of Wellington's CBD that features an indoor lap pool and meeting facilities. There are 114 rooms at the hotel, with each having a flat-screen television, a minibar, and coffee making facilities. Select rooms have a sitting area. A 24-hour reception desk and a business centre can be found at the hotel. Guests also receive free Wi-Fi and gym access. Private indoor parking is available for a surcharge, while online check-in allows guests to fill out their documentation prior to arrival.",
+    "imageurls": [
+      "/tour-images/hotel351.jpg",
+      "/tour-images/hotel352.jpg",
+      "/tour-images/hotel353.jpg"
+    ]
+  },
+  {
+    "name": "Spring Hills",
+    "rentperday": "1800",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "India",
+    "description": "Take in the views from a garden and make use of amenities such as complimentary wireless Internet access and concierge services. Getting to nearby attractions is a breeze with the area shuttle (surcharge).Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers room service (during limited hours). Continental breakfasts are available daily from 7 AM to 10:30 AM for a fee.Featured amenities include a business center, complimentary newspapers in the lobby, and dry cleaning/laundry services.",
+    "imageurls": [
+      "/tour-images/hotel361.jpg",
+      "/tour-images/hotel362.jpg",
+      "/tour-images/hotel363.jpg"
+    ]
+  },
+  {
+    "name": "Waldorf Astoria Maldives Ithaafushi",
+    "rentperday": "2500",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Maldives",
+    "description": "After dipping into one of the 2 outdoor swimming pools, you can spend some time at the private beach. Additional features at this hotel include complimentary wireless Internet access, concierge services, and babysitting (surcharge).Enjoy international cuisine at Terra, one of the hotel's 11 restaurants, or stay in and take advantage of the 24-hour room service. Relax with a refreshing drink at the beach bar, the poolside bar, or one of 2 bars/lounges. Buffet breakfasts are available daily from 7:00 AM to 10:30 AM for a fee.",
+    "imageurls": [
+      "/tour-images/hotel371.jpg",
+      "/tour-images/hotel372.jpg",
+      "/tour-images/hotel373.jpg"
+    ]
+  },
+  {
+    "name": "JW Marriott Mauritius Resort",
+    "rentperday": "1900",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Mauritius",
+    "description": "You can take advantage of recreational amenities such as an outdoor pool, an outdoor tennis court, and a sauna. Additional amenities at this resort include complimentary wireless Internet access, concierge services, and babysitting (surcharge).Grab a bite at Simply India, one of the resort's 5 restaurants, or stay in and take advantage of the 24-hour room service. Need to unwind? Take a break at the bar/lounge, the beach bar, or the poolside bar for a tasty beverage.Featured amenities include complimentary wired Internet access, a 24-hour business center, and limo/town car service.",
+    "imageurls": [
+      "/tour-images/hotel381.jpg",
+      "/tour-images/hotel382.jpg",
+      "/tour-images/hotel383.jpg"
+    ]
+  },
+  {
+    "name": "Hilton Dubai Jumeirah",
+    "rentperday": "1400",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Dubai",
+    "description": "Located on ‘The Walk’, Dubai's popular beachfront promenade of boutiques, restaurants and contemporary Arabic culture, Hilton Dubai Jumeirah offers a stylish retreat in the heart of the Dubai Marina. This Jumeirah beach hotel is the perfect base from which to explore all that Dubai has to offer. The amazing Dubai resort occupies a spectacular spot on Jumeirah Beach's golden mile. Boasting a private white sand beach, two pools and a sumptuous spa on-premise, this luxurious beachfront hotel is ideal for romantic stays, business trips and family vacations.  All 390 guest rooms feature elegant interior, balcony, HDTV, WiFi, work desk, minibar and coffee set.",
+    "imageurls": [
+      "/tour-images/hotel391.jpg",
+      "/tour-images/hotel392.jpg",
+      "/tour-images/hotel393.jpg"
+    ]
+  },
+  {
+    "name": "Grand Hyatt Kuala Lumpur",
+    "rentperday": "1700",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Malaysia",
+    "description": "Just an 11-minute stroll from the Petronas Twin Towers, Grand Hyatt Kuala Lumpur is an upscale hotel next to the Kuala Lumpur Convention Centre in the city’s Golden Triangle district. Luxurious rooms and suites have floor-to-ceiling windows to take in the exciting city views, free Wi-Fi, robes, minibars, tea and coffee making facilities, satellite TV and laptop-friendly safes. There is a 24-hour fitness centre and a heated outdoor pool.",
+    "imageurls": [
+      "/tour-images/hotel401.jpg",
+      "/tour-images/hotel402.jpg",
+      "/tour-images/hotel403.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Scandic Rukahovi",
+    "rentperday": "1300",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Finland",
+    "description": "Hotel Scandic Rukahovi offers affordable, relaxed accommodations about a seven-minute drive from Rosa and Rudolf Family Park. This Finnish winter sports resort lies just steps from the nearest cross-country and downhill ski runs. The warm and cosy rooms come with parquet floors and offer a TV, desk, chair, and free Wi-Fi. Private bathrooms are stocked with high-end bath products and a hairdryer. Selected units include tea/coffee provisions, minibars, seating areas, and terraces. Apartments add kitchenettes and private saunas.",
+    "imageurls": [
+      "/tour-images/hotel411.jpg",
+      "/tour-images/hotel412.jpg",
+      "/tour-images/hotel413.jpg"
+    ]
+  },
+  {
+    "name": "The College Hotel Amsterdam",
+    "rentperday": "1400",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Netherland",
+    "description": "The College Hotel Amsterdam is a renovated 19th Century school which now offers 4-star luxury and award-winning design in Amsterdam’s Oud Zuid, a 10-minute walk from the PC Hooftstraat fashion high street. The Museumplein, home to the Rijksmuseum, Van Gogh Museum and the Concert Hall, is even closer and guests can be in the heart of Vondelpark in 15 minutes. All 40 boutique rooms are en-suite, individually designed and sumptuously outfitted, with free Wi-Fi, air conditioning and complimentary bathrobe and slippers found in all.",
+    "imageurls": [
+      "/tour-images/hotel421.jpg",
+      "/tour-images/hotel422.jpg",
+      "/tour-images/hotel423.jpg"
+    ]
+  },
+  {
+    "name": "Maruei",
+    "rentperday": "1500",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Japan",
+    "description": "Quench your thirst with your favorite drink at the bar/lounge.Featured amenities include luggage storage, a safe deposit box at the front desk, and an elevator. A train station pick-up service is provided at no charge.Make yourself at home in one of the 50 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access is available to keep you connected. Private bathrooms with shower/tub combinations feature complimentary toiletries and bidets.",
+    "imageurls": [
+      "/tour-images/hotel431.jpg",
+      "/tour-images/hotel432.jpg",
+      "/tour-images/hotel433.jpg"
+    ]
+  },
+  {
+    "name": "Best Western City Hotel",
+    "rentperday": "2000",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Italy",
+    "description": "Amidst a lush garden in Bologna stands the four-star Best Western City Hotel. With its welcoming atmosphere, this hotel is a great choice for business and leisure trips. The 92 hotel rooms are spacious and air-conditioned. The rooms contain modern facilities such as minibars, flat-screen TVs with Mediaset Premium channels, coffee and tea making facilities, and a phone. The hotel features a complimentary Wi-Fi access and private parking. Wide range of services such as laundry services, luggage storage and daily housekeeping are provided to ensure that guests enjoy a convenient stay.",
+    "imageurls": [
+      "/tour-images/hotel441.jpg",
+      "/tour-images/hotel442.jpg",
+      "/tour-images/hotel443.jpg"
+    ]
+  },
+  {
+    "name": "Hotel Kabuki",
+    "rentperday": "1600",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "California",
+    "description": "Based in Japantown, across from St. Francis Square, Hotel Kabuki part of JdV by Hyatt offers a lively setting surrounded by shops and cafes. The modern and artsy boutique property features a courtyard Zen garden with a koi pond. In addition to state-of-the-art amenities such as a Smart TV, device dock, minibar and coffee maker, the memorable, oriental-inspired rooms also have the luxurious touches of bathrobes and designer toiletries. Select units have balconies or whirlpool tubs. Fitness facilities include a stylish gym and yoga studios, where group fitness classes are hosted.",
+    "imageurls": [
+      "/tour-images/hotel451.jpg",
+      "/tour-images/hotel452.jpg",
+      "/tour-images/hotel453.jpg"
+    ]
+  },
+  {
+    "name": "Quest Hotel and Conference Center Cebu",
+    "rentperday": "1300",
+    "maxcount": 15,
+    "phonenumber": 9842503678,
+    "city": "Philippines",
+    "description": "Quest Hotel And Conference Center – Cebu is a three-star family friendly hotel featuring an outdoor pool, a business center and complimentary valet and self-parking. Room amenities include an in-room safe, a telephone and a desk. All the rooms are air conditioned and have a minibar, free bottled water and a coffee/tea maker. Quest Hotel And Conference Center – Cebu offers guests a roundtrip airport shuttle to the Mactan International Airport available upon request at a surcharge. Free Wi-Fi is available throughout the premises. Guests can enjoy a buffet breakfast at a surcharge available at the hotel’s onsite restaurant.",
+    "imageurls": [
+      "/tour-images/hotel251.jpg",
+      "/tour-images/hotel252.jpg",
+      "/tour-images/hotel253.jpg"
+    ]
+  },
+  {
+    "name": "Andalucia Beach Hotel",
+    "rentperday": "1900",
+    "maxcount": 12,
+    "phonenumber": 9842503678,
+    "city": "Tunisia",
+    "description": "The 4-star Andalucia Beach Hotel & Residence offers comfort and convenience whether you're on business or holiday in Bizerte. Offering a variety of facilities and services, the property provides all you need for a good night's sleep. To be found at the property are 24-hour security, infirmary, wheelchair accessible, 24-hour front desk, luggage storage. Each guestroom is elegantly furnished and equipped with handy amenities. The property offers various recreational opportunities. Friendly staff, great facilities, and close proximity to all that Bizerte has to offer are three great reasons you should stay at Andalucia Beach Hotel & Residence.",
+    "imageurls": [
+      "/tour-images/hotel131.jpg",
+      "/tour-images/hotel132.jpg",
+      "/tour-images/hotel133.jpg"
+    ]
+  },
+  {
+    "name": "Dafam Semarang",
+    "rentperday": "1700",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "Bali",
+    "description": "Set in a prime location of Semarang, Hotel Dafam Semarang puts everything the city has to offer just outside your doorstep. The hotel offers guests a range of services and amenities designed to provide comfort and convenience. 24-hour room service, free Wi-Fi in all rooms, 24-hour front desk, luggage storage, Wi-Fi in public areas are there for guest's enjoyment. Guestrooms are designed to provide an optimal level of comfort with welcoming decor and some offering convenient amenities like television LCD/plasma screen, carpeting, clothes rack, complimentary instant coffee, complimentary tea. Take a break from a long day and make use of fitness center, spa, massage. Convenience and comfort makes Hotel Dafam Semarang the perfect choice for your stay in Semarang.",
+    "imageurls": [
+      "/tour-images/hotel21.jpg",
+      "/tour-images/hotel22.jpg",
+      "/tour-images/hotel23.jpg"
+    ]
+  },
+  {
+    "name": "The Grand Dragon Ladakh",
+    "rentperday": "1400",
+    "maxcount": 10,
+    "phonenumber": 9842503678,
+    "city": "India",
+    "description": "Eco-friendly The Grand Dragon Ladakh is fitted with solar panels and energy conserving features. Situated in the ancient city of Leh, it overlooks the famous Cold Desert and the surrounding mountains. Cultural shows and evening bonfires are available upon demand. Featuring modern decor, all the air-conditioned guest rooms enjoy views of the mountains. A flat-screen TV is included. En suite bathrooms are equipped with a shower. Room service is available 24 hours. The Grand Dragon Ladakh is a 10-minute walk from Leh Palace and Leh Market. It is a 5-minute walk from the Main Bus Stand and a 10-minute drive from Shanti Stupa. SNM General Hospital is 1 km away, while Kushok Bakula Leh Airport is 3 km from the hotel. Taste of Grand Dragon Restaurant serves Kashmiri, Indian, Chinese and Continental dishes. Light refreshments can be enjoyed at the 24-hour Coffee Shop. A 24-hour front desk, car rentals and meeting room facilities are available. Complimentary WiFi and laundry services are available.",
+    "imageurls": [
+      "/tour-images/hotel461.jpg",
+      "/tour-images/hotel462.jpg",
+      "/tour-images/hotel463.jpg"
+    ]
+  }
+]
